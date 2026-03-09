@@ -29,6 +29,9 @@ PAGE_SIZE        = 24           # max TCGPlayer allows per request
 MAX_PAGES        = 200          # safety cap; auto-stops when all pages fetched
 
 EXCLUDE_KEYWORDS = ["case"]     # skip any listing whose name contains these
+# At least one of these must appear in the product name (prevents false positives
+# like prerelease packs, commander decks, bundles, etc.)
+REQUIRE_KEYWORDS = ["booster"]
 
 OUTPUT_PATH      = Path("docs/data/results.json")
 # ────────────────────────────────────────────────────────────────────────────
@@ -80,6 +83,12 @@ def _is_presale(product: dict) -> bool:
 def _is_excluded(name: str) -> bool:
     name_lower = name.lower()
     return any(kw in name_lower for kw in EXCLUDE_KEYWORDS)
+
+
+def _is_required(name: str) -> bool:
+    """Return True only if the name contains at least one required keyword."""
+    name_lower = name.lower()
+    return any(kw in name_lower for kw in REQUIRE_KEYWORDS)
 
 
 def _image_url(product_id: int) -> str:
@@ -156,6 +165,8 @@ def filter_results(products: list[dict]) -> list[dict]:
         pid  = int(p.get("productId") or 0)
 
         if pid and pid in seen_ids:
+            continue
+        if not _is_required(name):
             continue
         if _is_excluded(name):
             continue
