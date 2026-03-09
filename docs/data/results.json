@@ -1,0 +1,237 @@
+{
+  "generated_at": "2026-03-09T08:49:25Z",
+  "count": 21,
+  "items": [
+    {
+      "id": 675606,
+      "name": "Marvel Super Heroes - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 666.5,
+      "lowest_price": 648.69,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
+    },
+    {
+      "id": 675558,
+      "name": "Secrets of Strixhaven - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Secrets of Strixhaven",
+      "release_date": "2026-04-24",
+      "market_price": 470.96,
+      "lowest_price": 447.97,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
+    },
+    {
+      "id": 670183,
+      "name": "Dual Evolution Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Dual Evolution",
+      "release_date": "2026-03-13",
+      "market_price": 374.68,
+      "lowest_price": 291.01,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670183/dual-evolution-booster-box"
+    },
+    {
+      "id": 675645,
+      "name": "Cross Force Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Cross Force",
+      "release_date": "2026-06-12",
+      "market_price": 299.99,
+      "lowest_price": 299.94,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
+    },
+    {
+      "id": 682046,
+      "name": "Three Glorious Fighters Booster Box",
+      "product_line": "Dragon Ball Super: Masters",
+      "set": "Three Glorious Fighters",
+      "release_date": "2026-03-27",
+      "market_price": 299.98,
+      "lowest_price": 299.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682046_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682046/three-glorious-fighters-booster-box"
+    },
+    {
+      "id": 660067,
+      "name": "SOLO LEVELING - Booster Box",
+      "product_line": "Union Arena",
+      "set": "UE17BT: SOLO LEVELING",
+      "release_date": "2026-03-20",
+      "market_price": 293.75,
+      "lowest_price": 257.98,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/660067_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/660067/solo-leveling-booster-box"
+    },
+    {
+      "id": 678150,
+      "name": "Unleashed - Booster Display",
+      "product_line": "Riftbound: League of Legends Trading Card Game",
+      "set": "Unleashed",
+      "release_date": "2026-05-08",
+      "market_price": 279.85,
+      "lowest_price": 270.25,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
+    },
+    {
+      "id": 675578,
+      "name": "Secrets of Strixhaven - Prerelease Pack [Set of 5]",
+      "product_line": "Magic: The Gathering",
+      "set": "Secrets of Strixhaven",
+      "release_date": "2026-04-24",
+      "market_price": 274.44,
+      "lowest_price": 239.96,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675578/secrets-of-strixhaven-prerelease-pack-set-of-5"
+    },
+    {
+      "id": 672404,
+      "name": "Perfect Order Pokemon Center Elite Trainer Box",
+      "product_line": "Pokemon",
+      "set": "ME03: Perfect Order",
+      "release_date": "2026-03-27",
+      "market_price": 268.08,
+      "lowest_price": 328.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672404/perfect-order-pokemon-center-elite-trainer-box"
+    },
+    {
+      "id": 682057,
+      "name": "Adventure on Kami's Island Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "Adventure on Kami's Island",
+      "release_date": "2026-04-03",
+      "market_price": 261.31,
+      "lowest_price": 226.82,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682057/adventure-on-kamis-island-booster-box"
+    },
+    {
+      "id": 682302,
+      "name": "Phantom Aria Booster Box",
+      "product_line": "Gundam Card Game",
+      "set": "Phantom Aria",
+      "release_date": "2026-04-24",
+      "market_price": 249.99,
+      "lowest_price": 249.98,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682302/phantom-aria-booster-box"
+    },
+    {
+      "id": 672394,
+      "name": "Perfect Order Booster Box",
+      "product_line": "Pokemon",
+      "set": "ME03: Perfect Order",
+      "release_date": "2026-03-27",
+      "market_price": 248.8,
+      "lowest_price": 241.83,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672394/perfect-order-booster-box"
+    },
+    {
+      "id": 675603,
+      "name": "Marvel Super Heroes - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 209.27,
+      "lowest_price": 197.67,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
+    },
+    {
+      "id": 672289,
+      "name": "A Lawless Time Carbonite Edition - Booster Display",
+      "product_line": "Star Wars: Unlimited",
+      "set": "A Lawless Time",
+      "release_date": "2026-03-13",
+      "market_price": 205.47,
+      "lowest_price": 201.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672289/a-lawless-time-carbonite-edition-booster-display"
+    },
+    {
+      "id": 675627,
+      "name": "Marvel Super Heroes Commander Deck - Avengers Assemble (Collector's Edition)",
+      "product_line": "Magic: The Gathering",
+      "set": "Commander: Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 188.59,
+      "lowest_price": 175.17,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675627/marvel-super-heroes-commander-deck-avengers-assemble-collectors-edition"
+    },
+    {
+      "id": 675563,
+      "name": "Secrets of Strixhaven - Codex Bundle",
+      "product_line": "Magic: The Gathering",
+      "set": "Secrets of Strixhaven",
+      "release_date": "2026-04-24",
+      "market_price": 180.95,
+      "lowest_price": 180.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675563/secrets-of-strixhaven-codex-bundle"
+    },
+    {
+      "id": 675628,
+      "name": "Marvel Super Heroes Commander Deck - Wakanda Forever (Collector's Edition)",
+      "product_line": "Magic: The Gathering",
+      "set": "Commander: Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 169.58,
+      "lowest_price": 145.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675628/marvel-super-heroes-commander-deck-wakanda-forever-collectors-edition"
+    },
+    {
+      "id": 675630,
+      "name": "Marvel Super Heroes Commander Deck - Doom Prevails (Collector's Edition)",
+      "product_line": "Magic: The Gathering",
+      "set": "Commander: Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 161.22,
+      "lowest_price": 159.73,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675630/marvel-super-heroes-commander-deck-doom-prevails-collectors-edition"
+    },
+    {
+      "id": 675629,
+      "name": "Marvel Super Heroes Commander Deck - The Fantastic Four (Collector's Edition)",
+      "product_line": "Magic: The Gathering",
+      "set": "Commander: Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 156.12,
+      "lowest_price": 140.05,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675629/marvel-super-heroes-commander-deck-the-fantastic-four-collectors-edition"
+    },
+    {
+      "id": 675555,
+      "name": "Secrets of Strixhaven - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Secrets of Strixhaven",
+      "release_date": "2026-04-24",
+      "market_price": 151.86,
+      "lowest_price": 148.78,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675555/secrets-of-strixhaven-play-booster-display"
+    },
+    {
+      "id": 678165,
+      "name": "Disney Lorcana: Wilds Unknown Booster Box",
+      "product_line": "Disney Lorcana",
+      "set": "Wilds Unknown",
+      "release_date": "2026-05-08",
+      "market_price": 150.23,
+      "lowest_price": 143.36,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678165/disney-lorcana-wilds-unknown-booster-box"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TCG Presale Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>🃏 TCG Presale Tracker</h1>
+    <p class="subtitle">Presale sealed products · market price &gt; $150 · no cases · updated daily</p>
+    <p class="updated" id="updated-at">Loading…</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input type="text" id="search" placeholder="Filter by name, game, or set…" />
+      <select id="sort">
+        <option value="market_desc">Market Price ↓</option>
+        <option value="market_asc">Market Price ↑</option>
+        <option value="release_asc">Release Date (soonest)</option>
+        <option value="release_desc">Release Date (latest)</option>
+        <option value="name_asc">Name A→Z</option>
+      </select>
+    </div>
+
+    <p class="count" id="count"></p>
+
+    <div class="grid" id="grid"></div>
+
+    <p class="empty hidden" id="empty">No results match your filter.</p>
+  </main>
+
+  <footer>
+    <p>
+      Data sourced from <a href="https://www.tcgplayer.com" target="_blank" rel="noopener">TCGPlayer</a>.
+      Prices update once per day via GitHub Actions.
+    </p>
+  </footer>
+
+  <script>
+    const DATA_URL = "data/results.json";
+
+    let allItems = [];
+
+    async function loadData() {
+      try {
+        const res  = await fetch(DATA_URL + "?t=" + Date.now());
+        const data = await res.json();
+        allItems = data.items || [];
+
+        const ts = data.generated_at
+          ? new Date(data.generated_at).toLocaleString("en-US", {
+              month: "short", day: "numeric", year: "numeric",
+              hour: "numeric", minute: "2-digit", timeZoneName: "short"
+            })
+          : "unknown";
+        document.getElementById("updated-at").textContent = "Last updated: " + ts;
+      } catch (e) {
+        document.getElementById("updated-at").textContent = "Failed to load data.";
+        console.error(e);
+      }
+      render();
+    }
+
+    function formatPrice(val) {
+      if (val == null) return "—";
+      return "$" + parseFloat(val).toFixed(2);
+    }
+
+    function formatDate(str) {
+      if (!str) return "TBA";
+      const [y, m, d] = str.split("-");
+      const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+      return `${months[parseInt(m,10)-1]} ${parseInt(d,10)}, ${y}`;
+    }
+
+    function getItems() {
+      const q     = document.getElementById("search").value.toLowerCase();
+      const sort  = document.getElementById("sort").value;
+      let items   = allItems.filter(item => {
+        if (!q) return true;
+        return (
+          item.name.toLowerCase().includes(q) ||
+          (item.product_line || "").toLowerCase().includes(q) ||
+          (item.set || "").toLowerCase().includes(q)
+        );
+      });
+
+      items.sort((a, b) => {
+        switch (sort) {
+          case "market_asc":   return (a.market_price || 0) - (b.market_price || 0);
+          case "market_desc":  return (b.market_price || 0) - (a.market_price || 0);
+          case "release_asc":  return (a.release_date || "9999") < (b.release_date || "9999") ? -1 : 1;
+          case "release_desc": return (a.release_date || "0000") > (b.release_date || "0000") ? -1 : 1;
+          case "name_asc":     return a.name.localeCompare(b.name);
+          default:             return 0;
+        }
+      });
+
+      return items;
+    }
+
+    function render() {
+      const items = getItems();
+      const grid  = document.getElementById("grid");
+      const count = document.getElementById("count");
+      const empty = document.getElementById("empty");
+
+      count.textContent = `${items.length} item${items.length !== 1 ? "s" : ""} found`;
+
+      if (items.length === 0) {
+        grid.innerHTML = "";
+        empty.classList.remove("hidden");
+        return;
+      }
+      empty.classList.add("hidden");
+
+      grid.innerHTML = items.map(item => {
+        const imgFallback = `this.src='https://placehold.co/200x280/1a1a2e/7b68ee?text=No+Image'`;
+        const mkt  = formatPrice(item.market_price);
+        const low  = formatPrice(item.lowest_price);
+        const rel  = formatDate(item.release_date);
+        const game = [item.product_line, item.set].filter(Boolean).join(" · ");
+        return `
+          <a class="card" href="${item.url}" target="_blank" rel="noopener">
+            <div class="card-img-wrap">
+              <img
+                src="${item.image_url}"
+                alt="${item.name}"
+                loading="lazy"
+                onerror="${imgFallback}"
+              />
+              <span class="badge">PRESALE</span>
+            </div>
+            <div class="card-body">
+              <p class="game">${game}</p>
+              <h2 class="card-title">${item.name}</h2>
+              <p class="release">🗓 Releases ${rel}</p>
+              <div class="prices">
+                <div class="price-block primary">
+                  <span class="label">Market</span>
+                  <span class="value">${mkt}</span>
+                </div>
+                <div class="price-block secondary">
+                  <span class="label">Lowest</span>
+                  <span class="value">${low}</span>
+                </div>
+              </div>
+            </div>
+          </a>`;
+      }).join("");
+    }
+
+    document.getElementById("search").addEventListener("input", render);
+    document.getElementById("sort").addEventListener("change", render);
+
+    loadData();
+  </script>
+</body>
+</html>
