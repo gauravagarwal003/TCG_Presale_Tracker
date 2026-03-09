@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T08:49:25Z",
-  "count": 21,
+  "generated_at": "2026-03-09T09:41:38Z",
+  "count": 15,
   "items": [
     {
       "id": 675606,
@@ -42,7 +42,7 @@
       "set": "Cross Force",
       "release_date": "2026-06-12",
       "market_price": 299.99,
-      "lowest_price": 299.94,
+      "lowest_price": 299.92,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
     },
@@ -64,7 +64,7 @@
       "set": "UE17BT: SOLO LEVELING",
       "release_date": "2026-03-20",
       "market_price": 293.75,
-      "lowest_price": 257.98,
+      "lowest_price": 277.98,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/660067_200w.jpg",
       "url": "https://www.tcgplayer.com/product/660067/solo-leveling-booster-box"
     },
@@ -80,34 +80,12 @@
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
     },
     {
-      "id": 675578,
-      "name": "Secrets of Strixhaven - Prerelease Pack [Set of 5]",
-      "product_line": "Magic: The Gathering",
-      "set": "Secrets of Strixhaven",
-      "release_date": "2026-04-24",
-      "market_price": 274.44,
-      "lowest_price": 239.96,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675578_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675578/secrets-of-strixhaven-prerelease-pack-set-of-5"
-    },
-    {
-      "id": 672404,
-      "name": "Perfect Order Pokemon Center Elite Trainer Box",
-      "product_line": "Pokemon",
-      "set": "ME03: Perfect Order",
-      "release_date": "2026-03-27",
-      "market_price": 268.08,
-      "lowest_price": 328.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672404_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/672404/perfect-order-pokemon-center-elite-trainer-box"
-    },
-    {
       "id": 682057,
       "name": "Adventure on Kami's Island Booster Box",
       "product_line": "One Piece Card Game",
       "set": "Adventure on Kami's Island",
       "release_date": "2026-04-03",
-      "market_price": 261.31,
+      "market_price": 258.4,
       "lowest_price": 226.82,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682057/adventure-on-kamis-island-booster-box"
@@ -135,6 +113,17 @@
       "url": "https://www.tcgplayer.com/product/672394/perfect-order-booster-box"
     },
     {
+      "id": 672387,
+      "name": "Radiant Origins 1st Edition Booster Box",
+      "product_line": "Grand Archive TCG",
+      "set": "Radiant Origins",
+      "release_date": "2026-04-03",
+      "market_price": 219.99,
+      "lowest_price": 249.93,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672387/radiant-origins-1st-edition-booster-box"
+    },
+    {
       "id": 675603,
       "name": "Marvel Super Heroes - Play Booster Display",
       "product_line": "Magic: The Gathering",
@@ -157,61 +146,6 @@
       "url": "https://www.tcgplayer.com/product/672289/a-lawless-time-carbonite-edition-booster-display"
     },
     {
-      "id": 675627,
-      "name": "Marvel Super Heroes Commander Deck - Avengers Assemble (Collector's Edition)",
-      "product_line": "Magic: The Gathering",
-      "set": "Commander: Marvel Super Heroes",
-      "release_date": "2026-06-26",
-      "market_price": 188.59,
-      "lowest_price": 175.17,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675627_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675627/marvel-super-heroes-commander-deck-avengers-assemble-collectors-edition"
-    },
-    {
-      "id": 675563,
-      "name": "Secrets of Strixhaven - Codex Bundle",
-      "product_line": "Magic: The Gathering",
-      "set": "Secrets of Strixhaven",
-      "release_date": "2026-04-24",
-      "market_price": 180.95,
-      "lowest_price": 180.95,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675563_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675563/secrets-of-strixhaven-codex-bundle"
-    },
-    {
-      "id": 675628,
-      "name": "Marvel Super Heroes Commander Deck - Wakanda Forever (Collector's Edition)",
-      "product_line": "Magic: The Gathering",
-      "set": "Commander: Marvel Super Heroes",
-      "release_date": "2026-06-26",
-      "market_price": 169.58,
-      "lowest_price": 145.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675628_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675628/marvel-super-heroes-commander-deck-wakanda-forever-collectors-edition"
-    },
-    {
-      "id": 675630,
-      "name": "Marvel Super Heroes Commander Deck - Doom Prevails (Collector's Edition)",
-      "product_line": "Magic: The Gathering",
-      "set": "Commander: Marvel Super Heroes",
-      "release_date": "2026-06-26",
-      "market_price": 161.22,
-      "lowest_price": 159.73,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675630_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675630/marvel-super-heroes-commander-deck-doom-prevails-collectors-edition"
-    },
-    {
-      "id": 675629,
-      "name": "Marvel Super Heroes Commander Deck - The Fantastic Four (Collector's Edition)",
-      "product_line": "Magic: The Gathering",
-      "set": "Commander: Marvel Super Heroes",
-      "release_date": "2026-06-26",
-      "market_price": 156.12,
-      "lowest_price": 140.05,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675629_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675629/marvel-super-heroes-commander-deck-the-fantastic-four-collectors-edition"
-    },
-    {
       "id": 675555,
       "name": "Secrets of Strixhaven - Play Booster Display",
       "product_line": "Magic: The Gathering",
@@ -229,7 +163,7 @@
       "set": "Wilds Unknown",
       "release_date": "2026-05-08",
       "market_price": 150.23,
-      "lowest_price": 143.36,
+      "lowest_price": 143.5,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678165/disney-lorcana-wilds-unknown-booster-box"
     }
