@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T09:25:39Z",
+  "generated_at": "2026-03-15T09:27:31Z",
   "count": 12,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 664.98,
-      "lowest_price": 647.89,
+      "market_price": 664.29,
+      "lowest_price": 647.7,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 433.06,
-      "lowest_price": 431.93,
+      "market_price": 431.57,
+      "lowest_price": 430.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
     },
@@ -41,8 +41,8 @@
       "product_line": "Dragon Ball Super: Masters",
       "set": "Three Glorious Fighters",
       "release_date": "2026-03-27",
-      "market_price": 299.98,
-      "lowest_price": 299.81,
+      "market_price": 299.93,
+      "lowest_price": 299.77,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682046_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682046/three-glorious-fighters-booster-box"
     },
@@ -52,7 +52,7 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 278.06,
+      "market_price": 277.56,
       "lowest_price": 263.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
@@ -63,21 +63,10 @@
       "product_line": "Gundam Card Game",
       "set": "Phantom Aria",
       "release_date": "2026-04-24",
-      "market_price": 249.98,
+      "market_price": 249.97,
       "lowest_price": 245.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682302_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682302/phantom-aria-booster-box"
-    },
-    {
-      "id": 672394,
-      "name": "Perfect Order Booster Box",
-      "product_line": "Pokemon",
-      "set": "ME03: Perfect Order",
-      "release_date": "2026-03-27",
-      "market_price": 233.99,
-      "lowest_price": 233.94,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672394_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/672394/perfect-order-booster-box"
     },
     {
       "id": 682057,
@@ -85,10 +74,32 @@
       "product_line": "One Piece Card Game",
       "set": "Adventure on Kami's Island",
       "release_date": "2026-04-03",
-      "market_price": 228.74,
-      "lowest_price": 228.72,
+      "market_price": 234.69,
+      "lowest_price": 230.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682057/adventure-on-kamis-island-booster-box"
+    },
+    {
+      "id": 672394,
+      "name": "Perfect Order Booster Box",
+      "product_line": "Pokemon",
+      "set": "ME03: Perfect Order",
+      "release_date": "2026-03-27",
+      "market_price": 233.86,
+      "lowest_price": 233.82,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672394/perfect-order-booster-box"
+    },
+    {
+      "id": 672387,
+      "name": "Radiant Origins 1st Edition Booster Box",
+      "product_line": "Grand Archive TCG",
+      "set": "Radiant Origins",
+      "release_date": "2026-04-03",
+      "market_price": 219.99,
+      "lowest_price": 229.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672387/radiant-origins-1st-edition-booster-box"
     },
     {
       "id": 675603,
@@ -97,7 +108,7 @@
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
       "market_price": 208.28,
-      "lowest_price": 197.06,
+      "lowest_price": 197.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -118,21 +129,10 @@
       "product_line": "Union Arena",
       "set": "UE17BT: SOLO LEVELING",
       "release_date": "2026-03-20",
-      "market_price": 187.92,
-      "lowest_price": 169.85,
+      "market_price": 171.86,
+      "lowest_price": 159.84,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/660067_200w.jpg",
       "url": "https://www.tcgplayer.com/product/660067/solo-leveling-booster-box"
-    },
-    {
-      "id": 680503,
-      "name": "Dual Revolution Booster Box",
-      "product_line": "Digimon Card Game",
-      "set": "Dual Revolution",
-      "release_date": "2026-05-22",
-      "market_price": 169.99,
-      "lowest_price": 169.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
     }
   ]
 }
