@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T09:49:23Z",
-  "count": 13,
+  "generated_at": "2026-03-18T09:45:11Z",
+  "count": 14,
   "items": [
     {
       "id": 675606,
@@ -9,7 +9,7 @@
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
       "market_price": 662.4,
-      "lowest_price": 642.66,
+      "lowest_price": 642.62,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 430.67,
-      "lowest_price": 428.31,
+      "market_price": 428.74,
+      "lowest_price": 422.64,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
     },
@@ -52,8 +52,8 @@
       "product_line": "One Piece Card Game",
       "set": "Adventure on Kami's Island",
       "release_date": "2026-04-03",
-      "market_price": 291.48,
-      "lowest_price": 289.99,
+      "market_price": 294.24,
+      "lowest_price": 287.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682057/adventure-on-kamis-island-booster-box"
     },
@@ -63,10 +63,21 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 273.58,
-      "lowest_price": 262.89,
+      "market_price": 269.71,
+      "lowest_price": 262.78,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
+    },
+    {
+      "id": 684444,
+      "name": "Chaos Rising Booster Box",
+      "product_line": "Pokemon",
+      "set": "ME04: Chaos Rising",
+      "release_date": "2026-05-22",
+      "market_price": 255.95,
+      "lowest_price": null,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
     {
       "id": 682302,
@@ -85,8 +96,8 @@
       "product_line": "Pokemon",
       "set": "ME03: Perfect Order",
       "release_date": "2026-03-27",
-      "market_price": 233.9,
-      "lowest_price": 233.84,
+      "market_price": 232.59,
+      "lowest_price": 233.85,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672394_200w.jpg",
       "url": "https://www.tcgplayer.com/product/672394/perfect-order-booster-box"
     },
@@ -96,8 +107,8 @@
       "product_line": "Grand Archive TCG",
       "set": "Radiant Origins",
       "release_date": "2026-04-03",
-      "market_price": 219.99,
-      "lowest_price": 229.0,
+      "market_price": 220.99,
+      "lowest_price": 228.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672387_200w.jpg",
       "url": "https://www.tcgplayer.com/product/672387/radiant-origins-1st-edition-booster-box"
     },
@@ -107,8 +118,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 208.28,
-      "lowest_price": 196.93,
+      "market_price": 205.9,
+      "lowest_price": 196.84,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -119,7 +130,7 @@
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 199.98,
-      "lowest_price": 199.97,
+      "lowest_price": 199.96,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
@@ -140,8 +151,8 @@
       "product_line": "Union Arena",
       "set": "UE17BT: SOLO LEVELING",
       "release_date": "2026-03-20",
-      "market_price": 158.06,
-      "lowest_price": 155.0,
+      "market_price": 155.26,
+      "lowest_price": 146.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/660067_200w.jpg",
       "url": "https://www.tcgplayer.com/product/660067/solo-leveling-booster-box"
     }
