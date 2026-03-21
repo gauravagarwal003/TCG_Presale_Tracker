@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T09:34:28Z",
+  "generated_at": "2026-03-21T09:25:27Z",
   "count": 13,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 660.12,
-      "lowest_price": 642.44,
+      "market_price": 658.54,
+      "lowest_price": 642.37,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 403.71,
-      "lowest_price": 405.06,
+      "market_price": 403.99,
+      "lowest_price": 399.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
     },
@@ -41,8 +41,8 @@
       "product_line": "Dragon Ball Super: Masters",
       "set": "Three Glorious Fighters",
       "release_date": "2026-03-27",
-      "market_price": 299.93,
-      "lowest_price": 279.99,
+      "market_price": 298.09,
+      "lowest_price": 276.88,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682046_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682046/three-glorious-fighters-booster-box"
     },
@@ -52,8 +52,8 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 270.89,
-      "lowest_price": 275.77,
+      "market_price": 273.1,
+      "lowest_price": 275.75,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
@@ -63,7 +63,7 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 266.47,
+      "market_price": 265.65,
       "lowest_price": 255.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
@@ -74,8 +74,8 @@
       "product_line": "One Piece Card Game",
       "set": "Adventure on Kami's Island",
       "release_date": "2026-04-03",
-      "market_price": 260.69,
-      "lowest_price": 250.67,
+      "market_price": 258.56,
+      "lowest_price": 249.88,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682057/adventure-on-kamis-island-booster-box"
     },
@@ -85,7 +85,7 @@
       "product_line": "Gundam Card Game",
       "set": "Phantom Aria",
       "release_date": "2026-04-24",
-      "market_price": 249.95,
+      "market_price": 249.87,
       "lowest_price": 244.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682302_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682302/phantom-aria-booster-box"
@@ -96,7 +96,7 @@
       "product_line": "Pokemon",
       "set": "ME03: Perfect Order",
       "release_date": "2026-03-27",
-      "market_price": 232.63,
+      "market_price": 232.92,
       "lowest_price": 230.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672394_200w.jpg",
       "url": "https://www.tcgplayer.com/product/672394/perfect-order-booster-box"
@@ -118,8 +118,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 202.14,
-      "lowest_price": 196.53,
+      "market_price": 201.46,
+      "lowest_price": 196.41,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -130,7 +130,7 @@
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 199.98,
-      "lowest_price": 199.95,
+      "lowest_price": 199.94,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
