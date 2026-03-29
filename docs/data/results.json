@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T09:30:02Z",
+  "generated_at": "2026-03-29T09:31:33Z",
   "count": 12,
   "items": [
     {
@@ -9,7 +9,7 @@
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
       "market_price": 643.6,
-      "lowest_price": 631.78,
+      "lowest_price": 631.69,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 392.79,
-      "lowest_price": 392.79,
+      "market_price": 398.77,
+      "lowest_price": 398.64,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
     },
@@ -41,7 +41,7 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 275.71,
+      "market_price": 275.68,
       "lowest_price": 275.62,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
@@ -52,8 +52,8 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 261.15,
-      "lowest_price": 253.95,
+      "market_price": 260.84,
+      "lowest_price": 251.49,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
     },
@@ -74,8 +74,8 @@
       "product_line": "One Piece Card Game",
       "set": "Adventure on Kami's Island",
       "release_date": "2026-04-03",
-      "market_price": 245.26,
-      "lowest_price": 239.9,
+      "market_price": 243.67,
+      "lowest_price": 234.69,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682057/adventure-on-kamis-island-booster-box"
     },
@@ -86,20 +86,9 @@
       "set": "Radiant Origins",
       "release_date": "2026-04-03",
       "market_price": 211.3,
-      "lowest_price": 184.92,
+      "lowest_price": 184.9,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672387_200w.jpg",
       "url": "https://www.tcgplayer.com/product/672387/radiant-origins-1st-edition-booster-box"
-    },
-    {
-      "id": 682814,
-      "name": "Omens of the Third Age Booster Box",
-      "product_line": "Flesh and Blood TCG",
-      "set": "Omens of the Third Age",
-      "release_date": "2026-06-05",
-      "market_price": 199.98,
-      "lowest_price": 149.93,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
     {
       "id": 675603,
@@ -107,8 +96,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 197.44,
-      "lowest_price": 188.79,
+      "market_price": 196.87,
+      "lowest_price": 188.69,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -119,7 +108,7 @@
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
       "market_price": 184.89,
-      "lowest_price": 179.77,
+      "lowest_price": 184.74,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
@@ -133,6 +122,17 @@
       "lowest_price": 169.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
+    },
+    {
+      "id": 682814,
+      "name": "Omens of the Third Age Booster Box",
+      "product_line": "Flesh and Blood TCG",
+      "set": "Omens of the Third Age",
+      "release_date": "2026-06-05",
+      "market_price": 174.96,
+      "lowest_price": 149.93,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     }
   ]
 }
