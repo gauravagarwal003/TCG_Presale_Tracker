@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T09:31:33Z",
+  "generated_at": "2026-03-30T10:10:07Z",
   "count": 12,
   "items": [
     {
@@ -9,7 +9,7 @@
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
       "market_price": 643.6,
-      "lowest_price": 631.69,
+      "lowest_price": 631.56,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 398.77,
-      "lowest_price": 398.64,
+      "market_price": 398.61,
+      "lowest_price": 398.59,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
     },
@@ -41,8 +41,8 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 275.68,
-      "lowest_price": 275.62,
+      "market_price": 275.65,
+      "lowest_price": 275.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
@@ -52,7 +52,7 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 260.84,
+      "market_price": 260.06,
       "lowest_price": 251.49,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
@@ -74,8 +74,8 @@
       "product_line": "One Piece Card Game",
       "set": "Adventure on Kami's Island",
       "release_date": "2026-04-03",
-      "market_price": 243.67,
-      "lowest_price": 234.69,
+      "market_price": 239.87,
+      "lowest_price": 230.69,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682057/adventure-on-kamis-island-booster-box"
     },
@@ -85,8 +85,8 @@
       "product_line": "Grand Archive TCG",
       "set": "Radiant Origins",
       "release_date": "2026-04-03",
-      "market_price": 211.3,
-      "lowest_price": 184.9,
+      "market_price": 204.62,
+      "lowest_price": 184.85,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672387_200w.jpg",
       "url": "https://www.tcgplayer.com/product/672387/radiant-origins-1st-edition-booster-box"
     },
@@ -96,8 +96,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 196.87,
-      "lowest_price": 188.69,
+      "market_price": 196.28,
+      "lowest_price": 187.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -108,7 +108,7 @@
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
       "market_price": 184.89,
-      "lowest_price": 184.74,
+      "lowest_price": 179.74,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
