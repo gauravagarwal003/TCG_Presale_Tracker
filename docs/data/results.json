@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T10:02:10Z",
-  "count": 9,
+  "generated_at": "2026-04-08T10:01:58Z",
+  "count": 10,
   "items": [
     {
       "id": 675606,
@@ -9,7 +9,7 @@
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
       "market_price": 637.64,
-      "lowest_price": 624.07,
+      "lowest_price": 623.22,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 487.25,
-      "lowest_price": 475.0,
+      "market_price": 483.33,
+      "lowest_price": 474.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
     },
@@ -30,7 +30,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Cross Force",
       "release_date": "2026-06-12",
-      "market_price": 299.8,
+      "market_price": 299.59,
       "lowest_price": 294.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
@@ -41,7 +41,7 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 250.78,
+      "market_price": 250.71,
       "lowest_price": 250.59,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
@@ -52,8 +52,8 @@
       "product_line": "Gundam Card Game",
       "set": "Phantom Aria",
       "release_date": "2026-04-24",
-      "market_price": 236.35,
-      "lowest_price": 219.01,
+      "market_price": 235.33,
+      "lowest_price": 209.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682302_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682302/phantom-aria-booster-box"
     },
@@ -63,8 +63,8 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 200.61,
-      "lowest_price": 193.96,
+      "market_price": 196.16,
+      "lowest_price": 193.22,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
     },
@@ -74,8 +74,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 189.86,
-      "lowest_price": 185.21,
+      "market_price": 189.39,
+      "lowest_price": 183.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -86,7 +86,7 @@
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
       "market_price": 184.89,
-      "lowest_price": 179.58,
+      "lowest_price": 179.54,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
@@ -100,6 +100,17 @@
       "lowest_price": 159.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
+    },
+    {
+      "id": 682814,
+      "name": "Omens of the Third Age Booster Box",
+      "product_line": "Flesh and Blood TCG",
+      "set": "Omens of the Third Age",
+      "release_date": "2026-06-05",
+      "market_price": 174.96,
+      "lowest_price": 140.98,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     }
   ]
 }
