@@ -1,17 +1,39 @@
 {
-  "generated_at": "2026-04-14T10:10:12Z",
-  "count": 5,
+  "generated_at": "2026-04-15T10:11:10Z",
+  "count": 11,
   "items": [
+    {
+      "id": 675606,
+      "name": "Marvel Super Heroes - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 632.43,
+      "lowest_price": 618.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
+    },
     {
       "id": 675558,
       "name": "Secrets of Strixhaven - Collector Booster Display",
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 478.28,
-      "lowest_price": 478.27,
+      "market_price": 480.93,
+      "lowest_price": 478.28,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
+    },
+    {
+      "id": 675645,
+      "name": "Cross Force Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Cross Force",
+      "release_date": "2026-06-12",
+      "market_price": 299.35,
+      "lowest_price": 294.83,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
     },
     {
       "id": 684444,
@@ -19,7 +41,7 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 246.07,
+      "market_price": 245.39,
       "lowest_price": 235.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
@@ -30,21 +52,21 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 188.46,
-      "lowest_price": 181.41,
+      "market_price": 188.23,
+      "lowest_price": 188.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
     },
     {
-      "id": 682302,
-      "name": "Phantom Aria Booster Box",
-      "product_line": "Gundam Card Game",
-      "set": "Phantom Aria",
-      "release_date": "2026-04-24",
-      "market_price": 185.24,
-      "lowest_price": 159.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682302_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/682302/phantom-aria-booster-box"
+      "id": 680510,
+      "name": "Digital World Shambala Booster Box",
+      "product_line": "Digimon Card Game",
+      "set": "Digital World Shambala",
+      "release_date": "2026-07-03",
+      "market_price": 184.89,
+      "lowest_price": 179.32,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
     {
       "id": 675603,
@@ -52,10 +74,54 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 176.98,
-      "lowest_price": 171.83,
+      "market_price": 176.38,
+      "lowest_price": 171.68,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
+    },
+    {
+      "id": 682302,
+      "name": "Phantom Aria Booster Box",
+      "product_line": "Gundam Card Game",
+      "set": "Phantom Aria",
+      "release_date": "2026-04-24",
+      "market_price": 173.86,
+      "lowest_price": 159.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682302/phantom-aria-booster-box"
+    },
+    {
+      "id": 680503,
+      "name": "Dual Revolution Booster Box",
+      "product_line": "Digimon Card Game",
+      "set": "Dual Revolution",
+      "release_date": "2026-05-22",
+      "market_price": 172.94,
+      "lowest_price": 159.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
+    },
+    {
+      "id": 682814,
+      "name": "Omens of the Third Age Booster Box",
+      "product_line": "Flesh and Blood TCG",
+      "set": "Omens of the Third Age",
+      "release_date": "2026-06-05",
+      "market_price": 163.3,
+      "lowest_price": 138.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
+    },
+    {
+      "id": 685552,
+      "name": "CHAINSAW MAN - Booster Box",
+      "product_line": "Union Arena",
+      "set": "UE22BT: CHAINSAW MAN",
+      "release_date": "2026-07-31",
+      "market_price": 159.67,
+      "lowest_price": 299.66,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     }
   ]
 }
