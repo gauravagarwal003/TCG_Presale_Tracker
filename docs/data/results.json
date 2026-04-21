@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T10:29:21Z",
-  "count": 10,
+  "generated_at": "2026-04-21T10:13:59Z",
+  "count": 8,
   "items": [
     {
       "id": 675606,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 625.15,
-      "lowest_price": 615.84,
+      "market_price": 623.85,
+      "lowest_price": 615.8,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,21 +19,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Secrets of Strixhaven",
       "release_date": "2026-04-24",
-      "market_price": 544.79,
+      "market_price": 556.17,
       "lowest_price": 539.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
-    },
-    {
-      "id": 689336,
-      "name": "The Time of Battle Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "The Time of Battle",
-      "release_date": "2026-06-12",
-      "market_price": 397.91,
-      "lowest_price": 389.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
     {
       "id": 675645,
@@ -52,7 +41,7 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 245.42,
+      "market_price": 245.32,
       "lowest_price": 242.4,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
@@ -63,8 +52,8 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 181.5,
-      "lowest_price": 174.7,
+      "market_price": 174.26,
+      "lowest_price": 159.58,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
     },
@@ -74,8 +63,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 172.35,
-      "lowest_price": 171.42,
+      "market_price": 171.81,
+      "lowest_price": 171.37,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -91,24 +80,13 @@
       "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
     },
     {
-      "id": 685552,
-      "name": "CHAINSAW MAN - Booster Box",
-      "product_line": "Union Arena",
-      "set": "UE22BT: CHAINSAW MAN",
-      "release_date": "2026-07-31",
-      "market_price": 159.67,
-      "lowest_price": 299.6,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
-    },
-    {
       "id": 678165,
       "name": "Disney Lorcana: Wilds Unknown Booster Box",
       "product_line": "Disney Lorcana",
       "set": "Wilds Unknown",
       "release_date": "2026-05-08",
-      "market_price": 159.21,
-      "lowest_price": 165.0,
+      "market_price": 167.37,
+      "lowest_price": 180.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678165/disney-lorcana-wilds-unknown-booster-box"
     }
