@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T10:17:15Z",
-  "count": 11,
+  "generated_at": "2026-04-24T10:16:21Z",
+  "count": 9,
   "items": [
     {
       "id": 675606,
@@ -8,21 +8,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 620.02,
-      "lowest_price": 599.81,
+      "market_price": 617.42,
+      "lowest_price": 598.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
-    },
-    {
-      "id": 675558,
-      "name": "Secrets of Strixhaven - Collector Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Secrets of Strixhaven",
-      "release_date": "2026-04-24",
-      "market_price": 529.67,
-      "lowest_price": 525.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675558_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675558/secrets-of-strixhaven-collector-booster-display"
     },
     {
       "id": 689336,
@@ -30,8 +19,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 365.19,
-      "lowest_price": 328.67,
+      "market_price": 350.57,
+      "lowest_price": 328.64,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
@@ -52,8 +41,8 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 245.42,
-      "lowest_price": 242.4,
+      "market_price": 241.93,
+      "lowest_price": 235.32,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
@@ -63,7 +52,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 171.64,
+      "market_price": 171.54,
       "lowest_price": 166.35,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
@@ -85,32 +74,10 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 169.0,
-      "lowest_price": 159.58,
+      "market_price": 168.27,
+      "lowest_price": 158.17,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
-    },
-    {
-      "id": 678165,
-      "name": "Disney Lorcana: Wilds Unknown Booster Box",
-      "product_line": "Disney Lorcana",
-      "set": "Wilds Unknown",
-      "release_date": "2026-05-08",
-      "market_price": 167.36,
-      "lowest_price": 153.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678165/disney-lorcana-wilds-unknown-booster-box"
-    },
-    {
-      "id": 682814,
-      "name": "Omens of the Third Age Booster Box",
-      "product_line": "Flesh and Blood TCG",
-      "set": "Omens of the Third Age",
-      "release_date": "2026-06-05",
-      "market_price": 163.3,
-      "lowest_price": 137.92,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
     {
       "id": 685552,
@@ -119,9 +86,20 @@
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
       "market_price": 159.67,
-      "lowest_price": 299.2,
+      "lowest_price": 299.19,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
+    },
+    {
+      "id": 678165,
+      "name": "Disney Lorcana: Wilds Unknown Booster Box",
+      "product_line": "Disney Lorcana",
+      "set": "Wilds Unknown",
+      "release_date": "2026-05-08",
+      "market_price": 157.21,
+      "lowest_price": 153.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678165/disney-lorcana-wilds-unknown-booster-box"
     }
   ]
 }
