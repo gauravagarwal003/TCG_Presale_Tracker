@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T09:44:13Z",
-  "count": 11,
+  "generated_at": "2026-04-26T09:46:57Z",
+  "count": 10,
   "items": [
     {
       "id": 675606,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 615.02,
-      "lowest_price": 597.89,
+      "market_price": 611.72,
+      "lowest_price": 597.76,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 334.94,
-      "lowest_price": 303.65,
+      "market_price": 325.19,
+      "lowest_price": 292.67,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
@@ -30,7 +30,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Cross Force",
       "release_date": "2026-06-19",
-      "market_price": 298.96,
+      "market_price": 298.99,
       "lowest_price": 294.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
@@ -41,21 +41,10 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 242.03,
-      "lowest_price": 235.33,
+      "market_price": 243.22,
+      "lowest_price": 238.74,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
-    },
-    {
-      "id": 680510,
-      "name": "Digital World Shambala Booster Box",
-      "product_line": "Digimon Card Game",
-      "set": "Digital World Shambala",
-      "release_date": "2026-07-03",
-      "market_price": 184.89,
-      "lowest_price": 183.83,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
     {
       "id": 675603,
@@ -74,7 +63,7 @@
       "product_line": "Digimon Card Game",
       "set": "Dual Revolution",
       "release_date": "2026-05-22",
-      "market_price": 170.32,
+      "market_price": 168.45,
       "lowest_price": 157.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
@@ -85,8 +74,8 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Unleashed",
       "release_date": "2026-05-08",
-      "market_price": 167.45,
-      "lowest_price": 158.17,
+      "market_price": 166.26,
+      "lowest_price": 154.77,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
     },
@@ -97,7 +86,7 @@
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 163.3,
-      "lowest_price": 132.99,
+      "lowest_price": 131.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
@@ -108,7 +97,7 @@
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
       "market_price": 159.67,
-      "lowest_price": 299.19,
+      "lowest_price": 299.11,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     },
@@ -118,7 +107,7 @@
       "product_line": "Disney Lorcana",
       "set": "Wilds Unknown",
       "release_date": "2026-05-08",
-      "market_price": 156.83,
+      "market_price": 156.51,
       "lowest_price": 153.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
       "url": "https://www.tcgplayer.com/product/678165/disney-lorcana-wilds-unknown-booster-box"
