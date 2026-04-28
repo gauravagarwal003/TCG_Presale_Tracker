@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T10:56:07Z",
-  "count": 11,
+  "generated_at": "2026-04-28T10:58:07Z",
+  "count": 9,
   "items": [
     {
       "id": 675606,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 611.72,
-      "lowest_price": 597.68,
+      "market_price": 610.83,
+      "lowest_price": 595.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 314.49,
-      "lowest_price": 285.75,
+      "market_price": 301.56,
+      "lowest_price": 284.41,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
@@ -30,7 +30,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Cross Force",
       "release_date": "2026-06-19",
-      "market_price": 298.65,
+      "market_price": 298.63,
       "lowest_price": 294.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
@@ -41,8 +41,8 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 240.26,
-      "lowest_price": 240.37,
+      "market_price": 241.53,
+      "lowest_price": 241.92,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
@@ -86,7 +86,7 @@
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 163.3,
-      "lowest_price": 130.0,
+      "lowest_price": 120.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
@@ -97,31 +97,9 @@
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
       "market_price": 159.67,
-      "lowest_price": 299.1,
+      "lowest_price": 299.07,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
-    },
-    {
-      "id": 678165,
-      "name": "Disney Lorcana: Wilds Unknown Booster Box",
-      "product_line": "Disney Lorcana",
-      "set": "Wilds Unknown",
-      "release_date": "2026-05-08",
-      "market_price": 154.26,
-      "lowest_price": 132.79,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678165/disney-lorcana-wilds-unknown-booster-box"
-    },
-    {
-      "id": 678150,
-      "name": "Unleashed - Booster Display",
-      "product_line": "Riftbound: League of Legends Trading Card Game",
-      "set": "Unleashed",
-      "release_date": "2026-05-08",
-      "market_price": 151.19,
-      "lowest_price": 149.95,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678150/unleashed-booster-display"
     }
   ]
 }
