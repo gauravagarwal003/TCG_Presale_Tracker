@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T10:58:07Z",
+  "generated_at": "2026-04-29T10:49:25Z",
   "count": 9,
   "items": [
     {
@@ -8,21 +8,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 610.83,
-      "lowest_price": 595.0,
+      "market_price": 608.88,
+      "lowest_price": 580.22,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
-    },
-    {
-      "id": 689336,
-      "name": "The Time of Battle Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "The Time of Battle",
-      "release_date": "2026-06-12",
-      "market_price": 301.56,
-      "lowest_price": 284.41,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
     {
       "id": 675645,
@@ -36,13 +25,24 @@
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
     },
     {
+      "id": 689336,
+      "name": "The Time of Battle Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "The Time of Battle",
+      "release_date": "2026-06-12",
+      "market_price": 292.15,
+      "lowest_price": 280.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
+    },
+    {
       "id": 684444,
       "name": "Chaos Rising Booster Box",
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 241.53,
-      "lowest_price": 241.92,
+      "market_price": 245.88,
+      "lowest_price": 245.86,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
@@ -63,8 +63,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 170.97,
-      "lowest_price": 166.35,
+      "market_price": 170.77,
+      "lowest_price": 151.62,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
@@ -86,7 +86,7 @@
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 163.3,
-      "lowest_price": 120.95,
+      "lowest_price": 120.89,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
@@ -97,7 +97,7 @@
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
       "market_price": 159.67,
-      "lowest_price": 299.07,
+      "lowest_price": 299.05,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     }
