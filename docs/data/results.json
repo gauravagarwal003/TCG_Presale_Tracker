@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T10:49:25Z",
-  "count": 9,
+  "generated_at": "2026-04-30T10:48:22Z",
+  "count": 7,
   "items": [
     {
       "id": 675606,
@@ -8,7 +8,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 608.88,
+      "market_price": 598.36,
       "lowest_price": 580.22,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
@@ -19,7 +19,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Cross Force",
       "release_date": "2026-06-19",
-      "market_price": 298.63,
+      "market_price": 298.65,
       "lowest_price": 294.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
@@ -30,8 +30,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 292.15,
-      "lowest_price": 280.0,
+      "market_price": 287.62,
+      "lowest_price": 275.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
@@ -41,21 +41,10 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 245.88,
-      "lowest_price": 245.86,
+      "market_price": 245.86,
+      "lowest_price": 245.76,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
-    },
-    {
-      "id": 680510,
-      "name": "Digital World Shambala Booster Box",
-      "product_line": "Digimon Card Game",
-      "set": "Digital World Shambala",
-      "release_date": "2026-07-03",
-      "market_price": 184.89,
-      "lowest_price": 183.82,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
     {
       "id": 675603,
@@ -63,7 +52,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 170.77,
+      "market_price": 169.31,
       "lowest_price": 151.62,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
@@ -75,7 +64,7 @@
       "set": "Dual Revolution",
       "release_date": "2026-05-22",
       "market_price": 168.45,
-      "lowest_price": 157.99,
+      "lowest_price": 149.98,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
     },
@@ -86,20 +75,9 @@
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 163.3,
-      "lowest_price": 120.89,
+      "lowest_price": 120.86,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
-    },
-    {
-      "id": 685552,
-      "name": "CHAINSAW MAN - Booster Box",
-      "product_line": "Union Arena",
-      "set": "UE22BT: CHAINSAW MAN",
-      "release_date": "2026-07-31",
-      "market_price": 159.67,
-      "lowest_price": 299.05,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     }
   ]
 }
