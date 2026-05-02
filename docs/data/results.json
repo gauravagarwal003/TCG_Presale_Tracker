@@ -1,14 +1,36 @@
 {
-  "generated_at": "2026-05-01T10:18:09Z",
-  "count": 10,
+  "generated_at": "2026-05-02T09:55:26Z",
+  "count": 13,
   "items": [
+    {
+      "id": 692963,
+      "name": "The Hobbit - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "The Hobbit",
+      "release_date": "2026-08-14",
+      "market_price": 699.67,
+      "lowest_price": 949.86,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
+    },
+    {
+      "id": 692983,
+      "name": "Reality Fracture - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Reality Fracture",
+      "release_date": "2026-10-02",
+      "market_price": 699.67,
+      "lowest_price": 699.67,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
+    },
     {
       "id": 675606,
       "name": "Marvel Super Heroes - Collector Booster Display",
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 584.97,
+      "market_price": 571.46,
       "lowest_price": 546.75,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
@@ -41,10 +63,21 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 284.36,
+      "market_price": 279.05,
       "lowest_price": 275.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
+    },
+    {
+      "id": 692960,
+      "name": "The Hobbit - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "The Hobbit",
+      "release_date": "2026-08-14",
+      "market_price": 266.55,
+      "lowest_price": 199.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
     {
       "id": 684444,
@@ -52,8 +85,8 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 244.29,
-      "lowest_price": 244.82,
+      "market_price": 244.74,
+      "lowest_price": 244.68,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
@@ -63,8 +96,8 @@
       "product_line": "Digimon Card Game",
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
-      "market_price": 184.89,
-      "lowest_price": 183.76,
+      "market_price": 184.32,
+      "lowest_price": 183.73,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
@@ -74,21 +107,10 @@
       "product_line": "Digimon Card Game",
       "set": "Dual Revolution",
       "release_date": "2026-05-22",
-      "market_price": 168.45,
-      "lowest_price": 149.96,
+      "market_price": 166.8,
+      "lowest_price": 144.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
-    },
-    {
-      "id": 675603,
-      "name": "Marvel Super Heroes - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Marvel Super Heroes",
-      "release_date": "2026-06-26",
-      "market_price": 167.33,
-      "lowest_price": 151.62,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     },
     {
       "id": 682814,
@@ -97,7 +119,7 @@
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 163.3,
-      "lowest_price": 120.86,
+      "lowest_price": 120.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
     },
@@ -108,9 +130,20 @@
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
       "market_price": 159.67,
-      "lowest_price": 199.91,
+      "lowest_price": 199.9,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
+    },
+    {
+      "id": 675603,
+      "name": "Marvel Super Heroes - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Marvel Super Heroes",
+      "release_date": "2026-06-26",
+      "market_price": 159.4,
+      "lowest_price": 151.62,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     }
   ]
 }
