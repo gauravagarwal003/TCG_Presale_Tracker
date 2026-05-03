@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T09:55:26Z",
-  "count": 13,
+  "generated_at": "2026-05-03T09:59:42Z",
+  "count": 14,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 699.67,
-      "lowest_price": 949.86,
+      "market_price": 885.15,
+      "lowest_price": 899.9,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -30,10 +30,21 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 571.46,
-      "lowest_price": 546.75,
+      "market_price": 552.31,
+      "lowest_price": 505.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
+    },
+    {
+      "id": 692939,
+      "name": "Pitch Black Booster Box",
+      "product_line": "Pokemon",
+      "set": "ME05: Pitch Black",
+      "release_date": "2026-07-17",
+      "market_price": 359.91,
+      "lowest_price": 359.9,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
     },
     {
       "id": 692391,
@@ -63,7 +74,7 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 279.05,
+      "market_price": 277.0,
       "lowest_price": 275.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
@@ -74,8 +85,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 266.55,
-      "lowest_price": 199.99,
+      "market_price": 251.4,
+      "lowest_price": 246.84,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -85,8 +96,8 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 244.74,
-      "lowest_price": 244.68,
+      "market_price": 244.47,
+      "lowest_price": 244.43,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
     },
@@ -102,26 +113,26 @@
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
     {
-      "id": 680503,
-      "name": "Dual Revolution Booster Box",
-      "product_line": "Digimon Card Game",
-      "set": "Dual Revolution",
-      "release_date": "2026-05-22",
-      "market_price": 166.8,
-      "lowest_price": 144.95,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
-    },
-    {
       "id": 682814,
       "name": "Omens of the Third Age Booster Box",
       "product_line": "Flesh and Blood TCG",
       "set": "Omens of the Third Age",
       "release_date": "2026-06-05",
       "market_price": 163.3,
-      "lowest_price": 120.83,
+      "lowest_price": 120.45,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682814/omens-of-the-third-age-booster-box"
+    },
+    {
+      "id": 680503,
+      "name": "Dual Revolution Booster Box",
+      "product_line": "Digimon Card Game",
+      "set": "Dual Revolution",
+      "release_date": "2026-05-22",
+      "market_price": 161.18,
+      "lowest_price": 144.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680503/dual-revolution-booster-box"
     },
     {
       "id": 685552,
@@ -140,8 +151,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 159.4,
-      "lowest_price": 151.62,
+      "market_price": 151.16,
+      "lowest_price": 145.4,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675603_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675603/marvel-super-heroes-play-booster-display"
     }
