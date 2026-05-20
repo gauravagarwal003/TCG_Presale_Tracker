@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T11:55:32Z",
-  "count": 12,
+  "generated_at": "2026-05-20T11:44:03Z",
+  "count": 13,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 785.42,
-      "lowest_price": 775.99,
+      "market_price": 784.8,
+      "lowest_price": 774.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -20,7 +20,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 615.04,
-      "lowest_price": 518.0,
+      "lowest_price": 505.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 473.01,
-      "lowest_price": 470.79,
+      "market_price": 470.41,
+      "lowest_price": 469.97,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -47,37 +47,26 @@
       "url": "https://www.tcgplayer.com/product/692391/story-booster-01-booster-box"
     },
     {
-      "id": 692939,
-      "name": "Pitch Black Booster Box",
-      "product_line": "Pokemon",
-      "set": "ME05: Pitch Black",
-      "release_date": "2026-07-17",
-      "market_price": 272.42,
-      "lowest_price": 268.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
-    },
-    {
       "id": 689336,
       "name": "The Time of Battle Booster Box",
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 270.53,
+      "market_price": 275.01,
       "lowest_price": 263.37,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
     {
-      "id": 675645,
-      "name": "Cross Force Booster Box",
-      "product_line": "Dragon Ball Super: Fusion World",
-      "set": "Cross Force",
-      "release_date": "2026-06-19",
-      "market_price": 258.21,
-      "lowest_price": 240.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
+      "id": 692939,
+      "name": "Pitch Black Booster Box",
+      "product_line": "Pokemon",
+      "set": "ME05: Pitch Black",
+      "release_date": "2026-07-17",
+      "market_price": 272.02,
+      "lowest_price": 267.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
     },
     {
       "id": 684444,
@@ -85,10 +74,21 @@
       "product_line": "Pokemon",
       "set": "ME04: Chaos Rising",
       "release_date": "2026-05-22",
-      "market_price": 252.33,
+      "market_price": 256.36,
       "lowest_price": 249.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/684444_200w.jpg",
       "url": "https://www.tcgplayer.com/product/684444/chaos-rising-booster-box"
+    },
+    {
+      "id": 675645,
+      "name": "Cross Force Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Cross Force",
+      "release_date": "2026-06-19",
+      "market_price": 251.84,
+      "lowest_price": 240.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
     },
     {
       "id": 692960,
@@ -96,8 +96,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 221.53,
-      "lowest_price": 216.63,
+      "market_price": 221.27,
+      "lowest_price": 216.43,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -108,7 +108,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 203.46,
-      "lowest_price": 172.57,
+      "lowest_price": 172.42,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
@@ -119,9 +119,20 @@
       "set": "Attack of the Vine!",
       "release_date": "2026-07-17",
       "market_price": 199.62,
-      "lowest_price": 184.33,
+      "lowest_price": 184.17,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
       "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
+    },
+    {
+      "id": 680510,
+      "name": "Digital World Shambala Booster Box",
+      "product_line": "Digimon Card Game",
+      "set": "Digital World Shambala",
+      "release_date": "2026-07-03",
+      "market_price": 184.1,
+      "lowest_price": 183.57,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
     {
       "id": 685552,
@@ -130,7 +141,7 @@
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
       "market_price": 173.08,
-      "lowest_price": 199.61,
+      "lowest_price": 199.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     }
