@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T10:27:00Z",
+  "generated_at": "2026-05-25T12:20:55Z",
   "count": 15,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 771.27,
-      "lowest_price": 756.86,
+      "market_price": 766.79,
+      "lowest_price": 756.85,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 583.47,
-      "lowest_price": 490.0,
+      "market_price": 569.48,
+      "lowest_price": 489.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -30,7 +30,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 472.89,
+      "market_price": 471.24,
       "lowest_price": 460.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
@@ -63,7 +63,7 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 274.08,
+      "market_price": 269.16,
       "lowest_price": 267.25,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
@@ -74,7 +74,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Cross Force",
       "release_date": "2026-06-19",
-      "market_price": 250.76,
+      "market_price": 251.96,
       "lowest_price": 240.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
@@ -85,7 +85,7 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 249.69,
+      "market_price": 251.63,
       "lowest_price": 241.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
@@ -96,8 +96,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 221.13,
-      "lowest_price": 221.14,
+      "market_price": 221.27,
+      "lowest_price": 216.16,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -113,26 +113,26 @@
       "url": "https://www.tcgplayer.com/product/693380/vendetta-booster-display"
     },
     {
-      "id": 692980,
-      "name": "Reality Fracture - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Reality Fracture",
-      "release_date": "2026-10-02",
-      "market_price": 203.46,
-      "lowest_price": 177.27,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
-    },
-    {
       "id": 693103,
       "name": "Eternal Nexus Booster Box",
       "product_line": "Gundam Card Game",
       "set": "Eternal Nexus",
       "release_date": "2026-06-26",
-      "market_price": 199.99,
+      "market_price": 199.83,
       "lowest_price": 199.67,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693103_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693103/eternal-nexus-booster-box"
+    },
+    {
+      "id": 692980,
+      "name": "Reality Fracture - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Reality Fracture",
+      "release_date": "2026-10-02",
+      "market_price": 199.05,
+      "lowest_price": 172.28,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
     {
       "id": 690384,
