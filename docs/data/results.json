@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:20:25Z",
+  "generated_at": "2026-05-29T12:09:37Z",
   "count": 16,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 731.42,
-      "lowest_price": 752.96,
+      "market_price": 730.35,
+      "lowest_price": 752.91,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 554.13,
-      "lowest_price": 486.82,
+      "market_price": 543.5,
+      "lowest_price": 486.79,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -30,7 +30,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 470.28,
+      "market_price": 470.43,
       "lowest_price": 460.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
@@ -53,7 +53,7 @@
       "set": "Impact Beyond Dimensions",
       "release_date": "2026-07-03",
       "market_price": 348.67,
-      "lowest_price": 348.67,
+      "lowest_price": 348.66,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693636_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693636/impact-beyond-dimensions-booster-box"
     },
@@ -74,8 +74,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Time of Battle",
       "release_date": "2026-06-12",
-      "market_price": 259.7,
-      "lowest_price": 259.7,
+      "market_price": 258.52,
+      "lowest_price": 255.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
@@ -85,7 +85,7 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 253.8,
+      "market_price": 253.49,
       "lowest_price": 241.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
@@ -96,21 +96,10 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Cross Force",
       "release_date": "2026-06-19",
-      "market_price": 250.17,
-      "lowest_price": 240.0,
+      "market_price": 250.91,
+      "lowest_price": 294.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
-    },
-    {
-      "id": 692960,
-      "name": "The Hobbit - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "The Hobbit",
-      "release_date": "2026-08-14",
-      "market_price": 221.12,
-      "lowest_price": 191.96,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
     {
       "id": 693380,
@@ -119,9 +108,20 @@
       "set": "Vendetta",
       "release_date": "2026-07-31",
       "market_price": 219.53,
-      "lowest_price": 212.6,
+      "lowest_price": 199.89,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693380/vendetta-booster-display"
+    },
+    {
+      "id": 692960,
+      "name": "The Hobbit - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "The Hobbit",
+      "release_date": "2026-08-14",
+      "market_price": 211.36,
+      "lowest_price": 191.96,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
     {
       "id": 693103,
@@ -129,21 +129,10 @@
       "product_line": "Gundam Card Game",
       "set": "Eternal Nexus",
       "release_date": "2026-06-26",
-      "market_price": 199.83,
+      "market_price": 197.88,
       "lowest_price": 179.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693103_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693103/eternal-nexus-booster-box"
-    },
-    {
-      "id": 692980,
-      "name": "Reality Fracture - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Reality Fracture",
-      "release_date": "2026-10-02",
-      "market_price": 199.05,
-      "lowest_price": 177.18,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
     {
       "id": 690384,
@@ -152,9 +141,20 @@
       "set": "Attack of the Vine!",
       "release_date": "2026-07-17",
       "market_price": 196.5,
-      "lowest_price": 168.67,
+      "lowest_price": 168.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
       "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
+    },
+    {
+      "id": 692980,
+      "name": "Reality Fracture - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Reality Fracture",
+      "release_date": "2026-10-02",
+      "market_price": 196.13,
+      "lowest_price": 169.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
     {
       "id": 685552,
@@ -162,7 +162,7 @@
       "product_line": "Union Arena",
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
-      "market_price": 191.64,
+      "market_price": 192.35,
       "lowest_price": 199.52,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
@@ -174,7 +174,7 @@
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
       "market_price": 184.1,
-      "lowest_price": 183.49,
+      "lowest_price": 183.48,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     }
