@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T12:37:38Z",
-  "count": 18,
+  "generated_at": "2026-06-12T12:12:26Z",
+  "count": 16,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 731.03,
-      "lowest_price": 729.2,
+      "market_price": 730.46,
+      "lowest_price": 729.11,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 514.68,
-      "lowest_price": 510.55,
+      "market_price": 508.09,
+      "lowest_price": 499.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -31,7 +31,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 494.32,
-      "lowest_price": 479.86,
+      "lowest_price": 479.75,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -53,20 +53,9 @@
       "set": "Impact Beyond Dimensions",
       "release_date": "2026-07-03",
       "market_price": 311.4,
-      "lowest_price": 297.95,
+      "lowest_price": 297.94,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693636_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693636/impact-beyond-dimensions-booster-box"
-    },
-    {
-      "id": 693388,
-      "name": "Ashes of the Empire Carbonite Edition - Booster Display",
-      "product_line": "Star Wars: Unlimited",
-      "set": "Ashes of the Empire",
-      "release_date": "2026-07-17",
-      "market_price": 299.94,
-      "lowest_price": 291.92,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693388_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/693388/ashes-of-the-empire-carbonite-edition-booster-display"
     },
     {
       "id": 693621,
@@ -75,20 +64,20 @@
       "set": "Freedom Ascension",
       "release_date": "2026-07-24",
       "market_price": 299.62,
-      "lowest_price": 299.6,
+      "lowest_price": 299.59,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693621/freedom-ascension-booster-box"
     },
     {
-      "id": 675645,
-      "name": "Cross Force Booster Box",
-      "product_line": "Dragon Ball Super: Fusion World",
-      "set": "Cross Force",
-      "release_date": "2026-06-19",
-      "market_price": 280.8,
-      "lowest_price": 248.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
+      "id": 693388,
+      "name": "Ashes of the Empire Carbonite Edition - Booster Display",
+      "product_line": "Star Wars: Unlimited",
+      "set": "Ashes of the Empire",
+      "release_date": "2026-07-17",
+      "market_price": 298.27,
+      "lowest_price": 280.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/693388/ashes-of-the-empire-carbonite-edition-booster-display"
     },
     {
       "id": 692939,
@@ -96,21 +85,10 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 258.27,
-      "lowest_price": 258.26,
+      "market_price": 268.67,
+      "lowest_price": 268.23,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
-    },
-    {
-      "id": 689336,
-      "name": "The Time of Battle Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "The Time of Battle",
-      "release_date": "2026-06-12",
-      "market_price": 243.81,
-      "lowest_price": 240.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/689336/the-time-of-battle-booster-box"
     },
     {
       "id": 692504,
@@ -119,9 +97,20 @@
       "set": "UE23BT: Inuyasha",
       "release_date": "2026-08-14",
       "market_price": 239.37,
-      "lowest_price": 198.82,
+      "lowest_price": 198.81,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692504_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692504/inuyasha-booster-box"
+    },
+    {
+      "id": 675645,
+      "name": "Cross Force Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Cross Force",
+      "release_date": "2026-06-19",
+      "market_price": 234.43,
+      "lowest_price": 228.5,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
     },
     {
       "id": 692960,
@@ -129,8 +118,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 203.45,
-      "lowest_price": 203.36,
+      "market_price": 205.11,
+      "lowest_price": 203.33,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -140,8 +129,8 @@
       "product_line": "Union Arena",
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
-      "market_price": 193.45,
-      "lowest_price": 199.35,
+      "market_price": 193.87,
+      "lowest_price": 199.33,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     },
@@ -152,7 +141,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 190.33,
-      "lowest_price": 167.33,
+      "lowest_price": 167.27,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
@@ -162,8 +151,8 @@
       "product_line": "Digimon Card Game",
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
-      "market_price": 184.1,
-      "lowest_price": 183.18,
+      "market_price": 183.87,
+      "lowest_price": 183.16,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
@@ -173,8 +162,8 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Vendetta",
       "release_date": "2026-07-31",
-      "market_price": 183.39,
-      "lowest_price": 149.0,
+      "market_price": 169.69,
+      "lowest_price": 142.69,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693380/vendetta-booster-display"
     },
@@ -184,21 +173,10 @@
       "product_line": "Disney Lorcana",
       "set": "Attack of the Vine!",
       "release_date": "2026-07-17",
-      "market_price": 162.37,
-      "lowest_price": 162.34,
+      "market_price": 162.36,
+      "lowest_price": 162.33,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
       "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
-    },
-    {
-      "id": 693103,
-      "name": "Eternal Nexus Booster Box",
-      "product_line": "Gundam Card Game",
-      "set": "Eternal Nexus",
-      "release_date": "2026-06-26",
-      "market_price": 151.78,
-      "lowest_price": 119.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693103_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/693103/eternal-nexus-booster-box"
     }
   ]
 }
