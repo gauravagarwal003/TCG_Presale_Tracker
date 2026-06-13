@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T12:12:26Z",
-  "count": 16,
+  "generated_at": "2026-06-13T11:09:39Z",
+  "count": 18,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 730.46,
-      "lowest_price": 729.11,
+      "market_price": 729.47,
+      "lowest_price": 729.1,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 508.09,
-      "lowest_price": 499.0,
+      "market_price": 502.78,
+      "lowest_price": 499.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 494.32,
-      "lowest_price": 479.75,
+      "market_price": 489.43,
+      "lowest_price": 479.64,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -52,10 +52,21 @@
       "product_line": "Dragon Ball Super: Masters",
       "set": "Impact Beyond Dimensions",
       "release_date": "2026-07-03",
-      "market_price": 311.4,
+      "market_price": 308.71,
       "lowest_price": 297.94,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693636_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693636/impact-beyond-dimensions-booster-box"
+    },
+    {
+      "id": 696138,
+      "name": "Re:ZERO -Starting Life in Another World- - Booster Box",
+      "product_line": "Union Arena",
+      "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
+      "release_date": "2026-09-18",
+      "market_price": 299.99,
+      "lowest_price": 299.98,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
     },
     {
       "id": 693621,
@@ -64,7 +75,7 @@
       "set": "Freedom Ascension",
       "release_date": "2026-07-24",
       "market_price": 299.62,
-      "lowest_price": 299.59,
+      "lowest_price": 299.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693621/freedom-ascension-booster-box"
     },
@@ -85,10 +96,21 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 268.67,
-      "lowest_price": 268.23,
+      "market_price": 271.83,
+      "lowest_price": 272.67,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
+    },
+    {
+      "id": 675645,
+      "name": "Cross Force Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Cross Force",
+      "release_date": "2026-06-19",
+      "market_price": 247.71,
+      "lowest_price": 248.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
     },
     {
       "id": 692504,
@@ -97,20 +119,9 @@
       "set": "UE23BT: Inuyasha",
       "release_date": "2026-08-14",
       "market_price": 239.37,
-      "lowest_price": 198.81,
+      "lowest_price": 198.8,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692504_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692504/inuyasha-booster-box"
-    },
-    {
-      "id": 675645,
-      "name": "Cross Force Booster Box",
-      "product_line": "Dragon Ball Super: Fusion World",
-      "set": "Cross Force",
-      "release_date": "2026-06-19",
-      "market_price": 234.43,
-      "lowest_price": 228.5,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
     },
     {
       "id": 692960,
@@ -118,8 +129,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 205.11,
-      "lowest_price": 203.33,
+      "market_price": 205.15,
+      "lowest_price": 203.18,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -129,8 +140,8 @@
       "product_line": "Union Arena",
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
-      "market_price": 193.87,
-      "lowest_price": 199.33,
+      "market_price": 194.23,
+      "lowest_price": 199.31,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     },
@@ -141,7 +152,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 190.33,
-      "lowest_price": 167.27,
+      "lowest_price": 167.17,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
@@ -151,21 +162,21 @@
       "product_line": "Digimon Card Game",
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
-      "market_price": 183.87,
-      "lowest_price": 183.16,
+      "market_price": 183.72,
+      "lowest_price": 183.14,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
     },
     {
-      "id": 693380,
-      "name": "Vendetta - Booster Display",
-      "product_line": "Riftbound: League of Legends Trading Card Game",
-      "set": "Vendetta",
-      "release_date": "2026-07-31",
-      "market_price": 169.69,
-      "lowest_price": 142.69,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/693380/vendetta-booster-display"
+      "id": 694936,
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You - Booster Box",
+      "product_line": "Union Arena",
+      "set": "UE21BT: The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+      "release_date": "2026-07-10",
+      "market_price": 178.84,
+      "lowest_price": 178.84,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694936/the-100-girlfriends-who-really-really-really-really-really-love-you-booster-box"
     },
     {
       "id": 690384,
@@ -173,10 +184,21 @@
       "product_line": "Disney Lorcana",
       "set": "Attack of the Vine!",
       "release_date": "2026-07-17",
-      "market_price": 162.36,
-      "lowest_price": 162.33,
+      "market_price": 162.31,
+      "lowest_price": 162.3,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
       "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
+    },
+    {
+      "id": 693380,
+      "name": "Vendetta - Booster Display",
+      "product_line": "Riftbound: League of Legends Trading Card Game",
+      "set": "Vendetta",
+      "release_date": "2026-07-31",
+      "market_price": 161.7,
+      "lowest_price": 141.94,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/693380/vendetta-booster-display"
     }
   ]
 }
