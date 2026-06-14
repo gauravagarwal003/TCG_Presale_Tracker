@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T11:09:39Z",
+  "generated_at": "2026-06-14T11:25:21Z",
   "count": 18,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 729.47,
-      "lowest_price": 729.1,
+      "market_price": 729.25,
+      "lowest_price": 729.06,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel Super Heroes",
       "release_date": "2026-06-26",
-      "market_price": 502.78,
-      "lowest_price": 499.99,
+      "market_price": 500.56,
+      "lowest_price": 499.97,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675606/marvel-super-heroes-collector-booster-display"
     },
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 489.43,
-      "lowest_price": 479.64,
+      "market_price": 487.61,
+      "lowest_price": 479.56,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -52,7 +52,7 @@
       "product_line": "Dragon Ball Super: Masters",
       "set": "Impact Beyond Dimensions",
       "release_date": "2026-07-03",
-      "market_price": 308.71,
+      "market_price": 304.67,
       "lowest_price": 297.94,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693636_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693636/impact-beyond-dimensions-booster-box"
@@ -96,7 +96,7 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 271.83,
+      "market_price": 273.21,
       "lowest_price": 272.67,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
@@ -107,7 +107,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Cross Force",
       "release_date": "2026-06-19",
-      "market_price": 247.71,
+      "market_price": 256.46,
       "lowest_price": 248.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
       "url": "https://www.tcgplayer.com/product/675645/cross-force-booster-box"
@@ -129,8 +129,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 205.15,
-      "lowest_price": 203.18,
+      "market_price": 205.11,
+      "lowest_price": 203.09,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -152,7 +152,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 190.33,
-      "lowest_price": 167.17,
+      "lowest_price": 166.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
@@ -184,8 +184,8 @@
       "product_line": "Disney Lorcana",
       "set": "Attack of the Vine!",
       "release_date": "2026-07-17",
-      "market_price": 162.31,
-      "lowest_price": 162.3,
+      "market_price": 162.33,
+      "lowest_price": 162.29,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
       "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
     },
@@ -195,7 +195,7 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Vendetta",
       "release_date": "2026-07-31",
-      "market_price": 161.7,
+      "market_price": 151.25,
       "lowest_price": 141.94,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693380/vendetta-booster-display"
