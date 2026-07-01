@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T11:39:54Z",
-  "count": 14,
+  "generated_at": "2026-07-01T11:54:03Z",
+  "count": 13,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 725.23,
-      "lowest_price": 723.0,
+      "market_price": 724.7,
+      "lowest_price": 723.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -31,7 +31,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 478.96,
-      "lowest_price": 478.15,
+      "lowest_price": 478.11,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -41,8 +41,8 @@
       "product_line": "Gundam Card Game",
       "set": "Freedom Ascension",
       "release_date": "2026-07-24",
-      "market_price": 299.58,
-      "lowest_price": 299.53,
+      "market_price": 299.57,
+      "lowest_price": 299.51,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693621/freedom-ascension-booster-box"
     },
@@ -52,8 +52,8 @@
       "product_line": "Dragon Ball Super: Masters",
       "set": "Impact Beyond Dimensions",
       "release_date": "2026-07-03",
-      "market_price": 297.79,
-      "lowest_price": 280.0,
+      "market_price": 292.14,
+      "lowest_price": 239.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693636_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693636/impact-beyond-dimensions-booster-box"
     },
@@ -63,7 +63,7 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 290.76,
+      "market_price": 288.89,
       "lowest_price": 272.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
@@ -74,8 +74,8 @@
       "product_line": "Star Wars: Unlimited",
       "set": "Ashes of the Empire",
       "release_date": "2026-07-17",
-      "market_price": 278.45,
-      "lowest_price": 250.0,
+      "market_price": 272.23,
+      "lowest_price": 235.19,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693388_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693388/ashes-of-the-empire-carbonite-edition-booster-display"
     },
@@ -85,21 +85,10 @@
       "product_line": "Disney Lorcana",
       "set": "Attack of the Vine!",
       "release_date": "2026-07-17",
-      "market_price": 240.87,
-      "lowest_price": 223.28,
+      "market_price": 232.95,
+      "lowest_price": 216.31,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
       "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
-    },
-    {
-      "id": 692504,
-      "name": "Inuyasha - Booster Box",
-      "product_line": "Union Arena",
-      "set": "UE23BT: Inuyasha",
-      "release_date": "2026-08-14",
-      "market_price": 211.97,
-      "lowest_price": 170.61,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692504_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/692504/inuyasha-booster-box"
     },
     {
       "id": 692960,
@@ -107,8 +96,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 189.59,
-      "lowest_price": 189.56,
+      "market_price": 189.78,
+      "lowest_price": 189.3,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -119,20 +108,9 @@
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
       "market_price": 185.35,
-      "lowest_price": 199.37,
+      "lowest_price": 199.35,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
-    },
-    {
-      "id": 692980,
-      "name": "Reality Fracture - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Reality Fracture",
-      "release_date": "2026-10-02",
-      "market_price": 181.08,
-      "lowest_price": 150.54,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
     {
       "id": 694936,
@@ -140,10 +118,21 @@
       "product_line": "Union Arena",
       "set": "UE21BT: The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
       "release_date": "2026-07-10",
-      "market_price": 178.77,
-      "lowest_price": 178.69,
+      "market_price": 178.74,
+      "lowest_price": 178.66,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694936_200w.jpg",
       "url": "https://www.tcgplayer.com/product/694936/the-100-girlfriends-who-really-really-really-really-really-love-you-booster-box"
+    },
+    {
+      "id": 692980,
+      "name": "Reality Fracture - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Reality Fracture",
+      "release_date": "2026-10-02",
+      "market_price": 173.36,
+      "lowest_price": 150.45,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     },
     {
       "id": 680510,
@@ -151,7 +140,7 @@
       "product_line": "Digimon Card Game",
       "set": "Digital World Shambala",
       "release_date": "2026-07-03",
-      "market_price": 161.45,
+      "market_price": 158.83,
       "lowest_price": 139.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/680510/digital-world-shambala-booster-box"
