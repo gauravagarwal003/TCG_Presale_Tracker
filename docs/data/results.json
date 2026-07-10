@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T11:48:55Z",
-  "count": 13,
+  "generated_at": "2026-07-10T11:43:55Z",
+  "count": 12,
   "items": [
     {
       "id": 692963,
@@ -8,7 +8,7 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 804.76,
+      "market_price": 816.22,
       "lowest_price": 810.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 478.08,
-      "lowest_price": 477.82,
+      "market_price": 478.05,
+      "lowest_price": 477.77,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -41,8 +41,8 @@
       "product_line": "One Piece Card Game",
       "set": "The World's Strongest Warriors",
       "release_date": "2026-08-22",
-      "market_price": 325.95,
-      "lowest_price": 325.9,
+      "market_price": 325.91,
+      "lowest_price": 325.4,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
     },
@@ -63,7 +63,7 @@
       "product_line": "Gundam Card Game",
       "set": "Freedom Ascension",
       "release_date": "2026-07-24",
-      "market_price": 296.58,
+      "market_price": 295.63,
       "lowest_price": 274.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693621/freedom-ascension-booster-box"
@@ -74,7 +74,7 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 274.9,
+      "market_price": 272.2,
       "lowest_price": 261.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
@@ -85,8 +85,8 @@
       "product_line": "Star Wars: Unlimited",
       "set": "Ashes of the Empire",
       "release_date": "2026-07-17",
-      "market_price": 251.18,
-      "lowest_price": 226.6,
+      "market_price": 240.52,
+      "lowest_price": 226.55,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693388_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693388/ashes-of-the-empire-carbonite-edition-booster-display"
     },
@@ -96,7 +96,7 @@
       "product_line": "Disney Lorcana",
       "set": "Attack of the Vine!",
       "release_date": "2026-07-17",
-      "market_price": 243.28,
+      "market_price": 239.24,
       "lowest_price": 229.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
       "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
@@ -118,7 +118,7 @@
       "product_line": "Union Arena",
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
-      "market_price": 186.51,
+      "market_price": 186.5,
       "lowest_price": 199.32,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
@@ -129,21 +129,10 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 180.25,
+      "market_price": 183.33,
       "lowest_price": 167.47,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
-    },
-    {
-      "id": 694936,
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You - Booster Box",
-      "product_line": "Union Arena",
-      "set": "UE21BT: The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
-      "release_date": "2026-07-10",
-      "market_price": 153.71,
-      "lowest_price": 128.93,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/694936_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/694936/the-100-girlfriends-who-really-really-really-really-really-love-you-booster-box"
     }
   ]
 }
