@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T10:19:57Z",
-  "count": 12,
+  "generated_at": "2026-07-13T11:54:22Z",
+  "count": 11,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 819.0,
-      "lowest_price": 819.44,
+      "market_price": 824.21,
+      "lowest_price": 818.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 477.93,
-      "lowest_price": 477.65,
+      "market_price": 477.89,
+      "lowest_price": 477.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -41,21 +41,10 @@
       "product_line": "One Piece Card Game",
       "set": "The World's Strongest Warriors",
       "release_date": "2026-08-22",
-      "market_price": 341.95,
-      "lowest_price": null,
+      "market_price": 376.72,
+      "lowest_price": 449.45,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
-    },
-    {
-      "id": 696138,
-      "name": "Re:ZERO -Starting Life in Another World- - Booster Box",
-      "product_line": "Union Arena",
-      "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
-      "release_date": "2026-09-18",
-      "market_price": 299.99,
-      "lowest_price": 299.78,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
     },
     {
       "id": 693621,
@@ -63,8 +52,8 @@
       "product_line": "Gundam Card Game",
       "set": "Freedom Ascension",
       "release_date": "2026-07-24",
-      "market_price": 273.32,
-      "lowest_price": 259.96,
+      "market_price": 255.61,
+      "lowest_price": 247.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693621/freedom-ascension-booster-box"
     },
@@ -74,21 +63,10 @@
       "product_line": "Pokemon",
       "set": "ME05: Pitch Black",
       "release_date": "2026-07-17",
-      "market_price": 257.53,
+      "market_price": 249.17,
       "lowest_price": 239.96,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692939_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692939/pitch-black-booster-box"
-    },
-    {
-      "id": 690384,
-      "name": "Disney Lorcana: Attack of the Vine! Booster Box",
-      "product_line": "Disney Lorcana",
-      "set": "Attack of the Vine!",
-      "release_date": "2026-07-17",
-      "market_price": 232.89,
-      "lowest_price": 219.95,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
     },
     {
       "id": 693388,
@@ -96,10 +74,21 @@
       "product_line": "Star Wars: Unlimited",
       "set": "Ashes of the Empire",
       "release_date": "2026-07-17",
-      "market_price": 231.36,
-      "lowest_price": 226.55,
+      "market_price": 230.73,
+      "lowest_price": 225.97,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693388_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693388/ashes-of-the-empire-carbonite-edition-booster-display"
+    },
+    {
+      "id": 690384,
+      "name": "Disney Lorcana: Attack of the Vine! Booster Box",
+      "product_line": "Disney Lorcana",
+      "set": "Attack of the Vine!",
+      "release_date": "2026-07-17",
+      "market_price": 229.46,
+      "lowest_price": 223.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690384/disney-lorcana-attack-of-the-vine-booster-box"
     },
     {
       "id": 692504,
@@ -129,8 +118,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 182.66,
-      "lowest_price": 182.62,
+      "market_price": 183.98,
+      "lowest_price": 181.98,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     }
