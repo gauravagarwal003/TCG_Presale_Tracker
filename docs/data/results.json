@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T10:12:29Z",
-  "count": 11,
+  "generated_at": "2026-07-19T10:20:15Z",
+  "count": 10,
   "items": [
     {
       "id": 706142,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 1043.35,
-      "lowest_price": 949.95,
+      "market_price": 1017.28,
+      "lowest_price": 899.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 787.43,
-      "lowest_price": 778.0,
+      "market_price": 797.29,
+      "lowest_price": 798.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -41,8 +41,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 477.19,
-      "lowest_price": 477.1,
+      "market_price": 477.1,
+      "lowest_price": 477.02,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -52,21 +52,10 @@
       "product_line": "One Piece Card Game",
       "set": "The World's Strongest Warriors",
       "release_date": "2026-08-22",
-      "market_price": 417.54,
+      "market_price": 408.73,
       "lowest_price": 380.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
-    },
-    {
-      "id": 695727,
-      "name": "Brightness of Hope Booster Box",
-      "product_line": "Dragon Ball Super: Fusion World",
-      "set": "Brightness of Hope",
-      "release_date": "2026-10-16",
-      "market_price": 399.69,
-      "lowest_price": 399.67,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695727_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
     },
     {
       "id": 706138,
@@ -75,7 +64,7 @@
       "set": "Star Trek",
       "release_date": "2026-11-13",
       "market_price": 231.88,
-      "lowest_price": 229.93,
+      "lowest_price": 229.54,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     },
@@ -96,21 +85,10 @@
       "product_line": "Union Arena",
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
-      "market_price": 185.6,
-      "lowest_price": 179.0,
+      "market_price": 182.84,
+      "lowest_price": 178.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
-    },
-    {
-      "id": 693621,
-      "name": "Freedom Ascension Booster Box",
-      "product_line": "Gundam Card Game",
-      "set": "Freedom Ascension",
-      "release_date": "2026-07-24",
-      "market_price": 177.4,
-      "lowest_price": 175.9,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/693621/freedom-ascension-booster-box"
     },
     {
       "id": 692960,
@@ -118,10 +96,21 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 171.63,
-      "lowest_price": 171.61,
+      "market_price": 182.33,
+      "lowest_price": 181.66,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
+    },
+    {
+      "id": 693621,
+      "name": "Freedom Ascension Booster Box",
+      "product_line": "Gundam Card Game",
+      "set": "Freedom Ascension",
+      "release_date": "2026-07-24",
+      "market_price": 177.28,
+      "lowest_price": 169.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/693621/freedom-ascension-booster-box"
     }
   ]
 }
