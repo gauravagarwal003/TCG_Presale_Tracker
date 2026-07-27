@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T10:37:35Z",
+  "generated_at": "2026-07-27T12:13:51Z",
   "count": 10,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 790.65,
-      "lowest_price": 795.0,
+      "market_price": 804.87,
+      "lowest_price": 798.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 741.3,
-      "lowest_price": 699.99,
+      "market_price": 706.47,
+      "lowest_price": 701.88,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -30,7 +30,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Story Booster 01",
       "release_date": "2026-08-21",
-      "market_price": 588.85,
+      "market_price": 594.02,
       "lowest_price": 579.21,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692391_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692391/story-booster-01-booster-box"
@@ -41,8 +41,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 476.29,
-      "lowest_price": 475.57,
+      "market_price": 476.15,
+      "lowest_price": 475.4,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -52,7 +52,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Brightness of Hope",
       "release_date": "2026-10-16",
-      "market_price": 399.78,
+      "market_price": 399.84,
       "lowest_price": 399.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695727_200w.jpg",
       "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
@@ -63,7 +63,7 @@
       "product_line": "One Piece Card Game",
       "set": "The World's Strongest Warriors",
       "release_date": "2026-08-28",
-      "market_price": 357.2,
+      "market_price": 347.5,
       "lowest_price": 249.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
@@ -74,7 +74,7 @@
       "product_line": "Union Arena",
       "set": "UE23BT: Inuyasha",
       "release_date": "2026-08-14",
-      "market_price": 193.83,
+      "market_price": 192.46,
       "lowest_price": 169.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692504_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692504/inuyasha-booster-box"
@@ -85,8 +85,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 180.16,
-      "lowest_price": 174.5,
+      "market_price": 179.46,
+      "lowest_price": 179.4,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -96,8 +96,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 166.46,
-      "lowest_price": 157.99,
+      "market_price": 158.62,
+      "lowest_price": 156.9,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     },
@@ -107,8 +107,8 @@
       "product_line": "Union Arena",
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
-      "market_price": 162.19,
-      "lowest_price": 149.95,
+      "market_price": 157.25,
+      "lowest_price": 155.05,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
     }
