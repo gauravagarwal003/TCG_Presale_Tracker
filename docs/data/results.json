@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T12:13:51Z",
-  "count": 10,
+  "generated_at": "2026-07-28T11:10:06Z",
+  "count": 12,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 804.87,
-      "lowest_price": 798.0,
+      "market_price": 796.27,
+      "lowest_price": 782.96,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 706.47,
-      "lowest_price": 701.88,
+      "market_price": 704.01,
+      "lowest_price": 695.88,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -42,7 +42,7 @@
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
       "market_price": 476.15,
-      "lowest_price": 475.4,
+      "lowest_price": 475.32,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -63,10 +63,21 @@
       "product_line": "One Piece Card Game",
       "set": "The World's Strongest Warriors",
       "release_date": "2026-08-28",
-      "market_price": 347.5,
+      "market_price": 345.46,
       "lowest_price": 249.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
+    },
+    {
+      "id": 696138,
+      "name": "Re:ZERO -Starting Life in Another World- - Booster Box",
+      "product_line": "Union Arena",
+      "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
+      "release_date": "2026-09-18",
+      "market_price": 299.99,
+      "lowest_price": 299.45,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
     },
     {
       "id": 692504,
@@ -75,7 +86,7 @@
       "set": "UE23BT: Inuyasha",
       "release_date": "2026-08-14",
       "market_price": 192.46,
-      "lowest_price": 169.99,
+      "lowest_price": 164.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692504_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692504/inuyasha-booster-box"
     },
@@ -85,8 +96,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 179.46,
-      "lowest_price": 179.4,
+      "market_price": 178.86,
+      "lowest_price": 164.44,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
     },
@@ -96,8 +107,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 158.62,
-      "lowest_price": 156.9,
+      "market_price": 158.03,
+      "lowest_price": 156.8,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     },
@@ -107,10 +118,21 @@
       "product_line": "Union Arena",
       "set": "UE22BT: CHAINSAW MAN",
       "release_date": "2026-07-31",
-      "market_price": 157.25,
-      "lowest_price": 155.05,
+      "market_price": 156.79,
+      "lowest_price": 153.03,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/685552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/685552/chainsaw-man-booster-box"
+    },
+    {
+      "id": 693380,
+      "name": "Vendetta - Booster Display",
+      "product_line": "Riftbound: League of Legends Trading Card Game",
+      "set": "Vendetta",
+      "release_date": "2026-07-31",
+      "market_price": 153.17,
+      "lowest_price": 144.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/693380/vendetta-booster-display"
     }
   ]
 }
