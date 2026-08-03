@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T10:27:35Z",
-  "count": 10,
+  "generated_at": "2026-08-03T12:14:23Z",
+  "count": 11,
   "items": [
     {
       "id": 692963,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 782.52,
-      "lowest_price": 750.0,
+      "market_price": 911.49,
+      "lowest_price": 934.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692963_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692963/the-hobbit-collector-booster-display"
     },
@@ -19,7 +19,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 701.78,
+      "market_price": 701.82,
       "lowest_price": 695.86,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
@@ -30,7 +30,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Story Booster 01",
       "release_date": "2026-08-21",
-      "market_price": 592.65,
+      "market_price": 592.19,
       "lowest_price": 579.21,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692391_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692391/story-booster-01-booster-box"
@@ -41,10 +41,21 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 475.32,
-      "lowest_price": 474.8,
+      "market_price": 475.11,
+      "lowest_price": 474.69,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
+    },
+    {
+      "id": 704752,
+      "name": "The World's Strongest Warriors Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "The World's Strongest Warriors",
+      "release_date": "2026-08-28",
+      "market_price": 413.88,
+      "lowest_price": 449.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
     },
     {
       "id": 695727,
@@ -58,15 +69,15 @@
       "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
     },
     {
-      "id": 704752,
-      "name": "The World's Strongest Warriors Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "The World's Strongest Warriors",
-      "release_date": "2026-08-28",
-      "market_price": 331.53,
-      "lowest_price": 321.77,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
+      "id": 696138,
+      "name": "Re:ZERO -Starting Life in Another World- - Booster Box",
+      "product_line": "Union Arena",
+      "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
+      "release_date": "2026-09-18",
+      "market_price": 299.99,
+      "lowest_price": 299.4,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
     },
     {
       "id": 706239,
@@ -75,7 +86,7 @@
       "set": "Hyperia City",
       "release_date": "2026-10-16",
       "market_price": 273.82,
-      "lowest_price": 248.94,
+      "lowest_price": 248.93,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
     },
@@ -85,7 +96,7 @@
       "product_line": "Magic: The Gathering",
       "set": "The Hobbit",
       "release_date": "2026-08-14",
-      "market_price": 193.71,
+      "market_price": 194.01,
       "lowest_price": 180.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692960/the-hobbit-play-booster-display"
@@ -96,7 +107,7 @@
       "product_line": "Union Arena",
       "set": "UE23BT: Inuyasha",
       "release_date": "2026-08-14",
-      "market_price": 189.14,
+      "market_price": 188.24,
       "lowest_price": 164.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692504_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692504/inuyasha-booster-box"
@@ -107,8 +118,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 156.19,
-      "lowest_price": 155.47,
+      "market_price": 155.94,
+      "lowest_price": 155.33,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
