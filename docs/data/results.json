@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:24:13Z",
+  "generated_at": "2026-08-19T09:26:25Z",
   "count": 9,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 699.73,
-      "lowest_price": 693.6,
+      "market_price": 699.68,
+      "lowest_price": 685.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Story Booster 01",
       "release_date": "2026-08-21",
-      "market_price": 561.26,
-      "lowest_price": 529.99,
+      "market_price": 558.95,
+      "lowest_price": 524.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692391_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692391/story-booster-01-booster-box"
     },
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 476.5,
-      "lowest_price": 474.0,
+      "market_price": 474.0,
+      "lowest_price": 473.43,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -52,7 +52,7 @@
       "product_line": "One Piece Card Game",
       "set": "The World's Strongest Warriors",
       "release_date": "2026-08-28",
-      "market_price": 333.11,
+      "market_price": 327.66,
       "lowest_price": 249.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
@@ -85,7 +85,7 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 246.89,
+      "market_price": 245.71,
       "lowest_price": 228.08,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
@@ -97,7 +97,7 @@
       "set": "Star Trek",
       "release_date": "2026-11-13",
       "market_price": 154.74,
-      "lowest_price": 154.73,
+      "lowest_price": 154.72,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
