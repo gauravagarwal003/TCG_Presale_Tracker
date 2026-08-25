@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T09:38:08Z",
-  "count": 10,
+  "generated_at": "2026-08-25T09:26:59Z",
+  "count": 11,
   "items": [
     {
       "id": 706142,
@@ -8,7 +8,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 698.84,
+      "market_price": 698.81,
       "lowest_price": 699.37,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
@@ -19,21 +19,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 502.47,
-      "lowest_price": 533.9,
+      "market_price": 521.73,
+      "lowest_price": 533.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
-    },
-    {
-      "id": 704752,
-      "name": "The World's Strongest Warriors Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "The World's Strongest Warriors",
-      "release_date": "2026-08-28",
-      "market_price": 408.8,
-      "lowest_price": 399.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
     },
     {
       "id": 695727,
@@ -47,15 +36,15 @@
       "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
     },
     {
-      "id": 712094,
-      "name": "Delta Reign Booster Box",
-      "product_line": "Pokemon",
-      "set": "ME06: Delta Reign",
-      "release_date": "2026-11-06",
-      "market_price": 322.64,
-      "lowest_price": 297.98,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
+      "id": 704752,
+      "name": "The World's Strongest Warriors Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "The World's Strongest Warriors",
+      "release_date": "2026-08-28",
+      "market_price": 394.14,
+      "lowest_price": 274.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
     },
     {
       "id": 710652,
@@ -64,7 +53,7 @@
       "set": "Stardust Trails",
       "release_date": "2026-10-30",
       "market_price": 299.68,
-      "lowest_price": 299.61,
+      "lowest_price": 299.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
     },
@@ -75,9 +64,20 @@
       "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
       "release_date": "2026-09-18",
       "market_price": 299.33,
-      "lowest_price": 298.9,
+      "lowest_price": 298.67,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
+    },
+    {
+      "id": 712094,
+      "name": "Delta Reign Booster Box",
+      "product_line": "Pokemon",
+      "set": "ME06: Delta Reign",
+      "release_date": "2026-11-06",
+      "market_price": 259.79,
+      "lowest_price": 249.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
     {
       "id": 706239,
@@ -85,10 +85,21 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 243.19,
+      "market_price": 242.71,
       "lowest_price": 228.08,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
+    },
+    {
+      "id": 711381,
+      "name": "Chivalrous XIII - Booster Box",
+      "product_line": "Digimon Card Game",
+      "set": "Chivalrous XIII",
+      "release_date": "2026-10-02",
+      "market_price": 178.99,
+      "lowest_price": 178.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711381/chivalrous-xiii-booster-box"
     },
     {
       "id": 706138,
@@ -96,8 +107,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 154.67,
-      "lowest_price": 154.62,
+      "market_price": 154.64,
+      "lowest_price": 154.57,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     },
@@ -107,8 +118,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 152.09,
-      "lowest_price": 150.58,
+      "market_price": 151.96,
+      "lowest_price": 150.41,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     }
