@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T19:21:16Z",
-  "count": 11,
+  "generated_at": "2026-08-28T20:33:09Z",
+  "count": 9,
   "items": [
     {
       "id": 706142,
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 533.79,
-      "lowest_price": 533.75,
+      "market_price": 533.75,
+      "lowest_price": 533.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -42,20 +42,20 @@
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
       "market_price": 399.95,
-      "lowest_price": 399.89,
+      "lowest_price": 399.81,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
     {
-      "id": 704752,
-      "name": "The World's Strongest Warriors Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "The World's Strongest Warriors",
-      "release_date": "2026-08-28",
-      "market_price": 345.97,
-      "lowest_price": 339.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/704752/the-worlds-strongest-warriors-booster-box"
+      "id": 710652,
+      "name": "Stardust Trails Booster Box",
+      "product_line": "Gundam Card Game",
+      "set": "Stardust Trails",
+      "release_date": "2026-10-30",
+      "market_price": 299.68,
+      "lowest_price": 299.42,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
     },
     {
       "id": 696138,
@@ -64,7 +64,7 @@
       "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
       "release_date": "2026-09-18",
       "market_price": 299.33,
-      "lowest_price": 298.55,
+      "lowest_price": 298.51,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
     },
@@ -74,8 +74,8 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 273.41,
-      "lowest_price": 279.97,
+      "market_price": 280.61,
+      "lowest_price": 269.93,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -91,37 +91,15 @@
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
     },
     {
-      "id": 711381,
-      "name": "Chivalrous XIII - Booster Box",
-      "product_line": "Digimon Card Game",
-      "set": "Chivalrous XIII",
-      "release_date": "2026-10-02",
-      "market_price": 178.99,
-      "lowest_price": 178.63,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711381_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/711381/chivalrous-xiii-booster-box"
-    },
-    {
       "id": 706138,
       "name": "Star Trek - Play Booster Display",
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 154.61,
-      "lowest_price": 154.43,
+      "market_price": 154.57,
+      "lowest_price": 154.4,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
-    },
-    {
-      "id": 692980,
-      "name": "Reality Fracture - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Reality Fracture",
-      "release_date": "2026-10-02",
-      "market_price": 150.27,
-      "lowest_price": 149.93,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
     }
   ]
 }
