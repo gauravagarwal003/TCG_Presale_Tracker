@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T20:33:09Z",
-  "count": 9,
+  "generated_at": "2026-08-29T14:06:03Z",
+  "count": 10,
   "items": [
     {
       "id": 706142,
@@ -8,7 +8,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 698.81,
+      "market_price": 698.8,
       "lowest_price": 699.37,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 533.75,
-      "lowest_price": 533.0,
+      "market_price": 533.64,
+      "lowest_price": 532.88,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -47,13 +47,24 @@
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
     {
+      "id": 711385,
+      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "Extra Booster: One Piece Heroine's Edition Vol. 2",
+      "release_date": "2026-10-30",
+      "market_price": 399.95,
+      "lowest_price": 399.95,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
+    },
+    {
       "id": 710652,
       "name": "Stardust Trails Booster Box",
       "product_line": "Gundam Card Game",
       "set": "Stardust Trails",
       "release_date": "2026-10-30",
       "market_price": 299.68,
-      "lowest_price": 299.42,
+      "lowest_price": 298.88,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
     },
@@ -64,7 +75,7 @@
       "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
       "release_date": "2026-09-18",
       "market_price": 299.33,
-      "lowest_price": 298.51,
+      "lowest_price": 298.5,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
     },
@@ -74,8 +85,8 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 280.61,
-      "lowest_price": 269.93,
+      "market_price": 282.56,
+      "lowest_price": 268.85,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -85,7 +96,7 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 240.03,
+      "market_price": 239.02,
       "lowest_price": 228.08,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
@@ -96,8 +107,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 154.57,
-      "lowest_price": 154.4,
+      "market_price": 154.54,
+      "lowest_price": 138.41,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
