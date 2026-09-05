@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:02:46Z",
+  "generated_at": "2026-09-05T12:14:51Z",
   "count": 10,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 699.37,
-      "lowest_price": 699.31,
+      "market_price": 699.36,
+      "lowest_price": 699.29,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 530.48,
-      "lowest_price": 530.43,
+      "market_price": 530.44,
+      "lowest_price": 530.34,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -41,10 +41,21 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 399.78,
-      "lowest_price": 399.6,
+      "market_price": 399.72,
+      "lowest_price": 399.59,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
+    },
+    {
+      "id": 710652,
+      "name": "Stardust Trails Booster Box",
+      "product_line": "Gundam Card Game",
+      "set": "Stardust Trails",
+      "release_date": "2026-10-30",
+      "market_price": 299.68,
+      "lowest_price": 274.91,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
     },
     {
       "id": 712094,
@@ -52,7 +63,7 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 267.63,
+      "market_price": 267.52,
       "lowest_price": 260.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
@@ -63,21 +74,10 @@
       "product_line": "Union Arena",
       "set": "UE24BT: Re:ZERO -Starting Life in Another World-",
       "release_date": "2026-09-18",
-      "market_price": 255.34,
+      "market_price": 246.81,
       "lowest_price": 214.5,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/696138/rezero-starting-life-in-another-world-booster-box"
-    },
-    {
-      "id": 711365,
-      "name": "Radiance - Booster Display",
-      "product_line": "Riftbound: League of Legends Trading Card Game",
-      "set": "Radiance",
-      "release_date": "2026-10-23",
-      "market_price": 249.25,
-      "lowest_price": 248.02,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711365_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/711365/radiance-booster-display"
     },
     {
       "id": 706239,
@@ -85,7 +85,7 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 236.85,
+      "market_price": 236.58,
       "lowest_price": 228.08,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
@@ -107,8 +107,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 153.05,
-      "lowest_price": 154.31,
+      "market_price": 153.73,
+      "lowest_price": 154.43,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
