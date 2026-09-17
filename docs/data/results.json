@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:56:40Z",
-  "count": 12,
+  "generated_at": "2026-09-17T14:00:33Z",
+  "count": 13,
   "items": [
     {
       "id": 706142,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 697.89,
-      "lowest_price": 686.97,
+      "market_price": 696.89,
+      "lowest_price": 686.91,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 549.6,
-      "lowest_price": 549.62,
+      "market_price": 549.61,
+      "lowest_price": 549.61,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
     },
@@ -36,17 +36,6 @@
       "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
     },
     {
-      "id": 711385,
-      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "Extra Booster: One Piece Heroine's Edition Vol. 2",
-      "release_date": "2026-10-30",
-      "market_price": 399.63,
-      "lowest_price": 387.24,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
-    },
-    {
       "id": 712901,
       "name": "The Dominance of God Booster Box",
       "product_line": "One Piece Card Game",
@@ -58,13 +47,35 @@
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
     {
+      "id": 711385,
+      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "Extra Booster: One Piece Heroine's Edition Vol. 2",
+      "release_date": "2026-10-30",
+      "market_price": 399.43,
+      "lowest_price": 387.24,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
+    },
+    {
+      "id": 708750,
+      "name": "Bleach: Thousand-Year Blood War Vol. 3 - Booster Display",
+      "product_line": "Union Arena",
+      "set": "UEX08BT: BLEACH: Thousand-Year Blood War Vol.3",
+      "release_date": "2026-11-13",
+      "market_price": 299.69,
+      "lowest_price": 349.67,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708750/bleach-thousand-year-blood-war-vol-3-booster-display"
+    },
+    {
       "id": 710652,
       "name": "Stardust Trails Booster Box",
       "product_line": "Gundam Card Game",
       "set": "Stardust Trails",
       "release_date": "2026-10-30",
       "market_price": 286.61,
-      "lowest_price": 273.51,
+      "lowest_price": 273.45,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
     },
@@ -74,7 +85,7 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 267.28,
+      "market_price": 267.2,
       "lowest_price": 257.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
@@ -86,9 +97,20 @@
       "set": "Radiance",
       "release_date": "2026-10-23",
       "market_price": 247.48,
-      "lowest_price": 246.36,
+      "lowest_price": 246.25,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711365_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711365/radiance-booster-display"
+    },
+    {
+      "id": 710968,
+      "name": "Homeworlds Carbonite Edition - Booster Display",
+      "product_line": "Star Wars: Unlimited",
+      "set": "Homeworlds",
+      "release_date": "2026-10-09",
+      "market_price": 244.9,
+      "lowest_price": 244.88,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710968_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/710968/homeworlds-carbonite-edition-booster-display"
     },
     {
       "id": 706239,
@@ -96,7 +118,7 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 229.26,
+      "market_price": 227.91,
       "lowest_price": 216.47,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
@@ -107,8 +129,8 @@
       "product_line": "Union Arena",
       "set": "UEX07BT: Attack on Titan Vol. 2",
       "release_date": "2026-09-18",
-      "market_price": 184.74,
-      "lowest_price": 183.99,
+      "market_price": 183.48,
+      "lowest_price": 179.98,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/696147_200w.jpg",
       "url": "https://www.tcgplayer.com/product/696147/attack-on-titan-vol-2-booster-display"
     },
@@ -118,21 +140,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 177.58,
-      "lowest_price": 177.78,
+      "market_price": 175.83,
+      "lowest_price": 175.81,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
-    },
-    {
-      "id": 706138,
-      "name": "Star Trek - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Star Trek",
-      "release_date": "2026-11-13",
-      "market_price": 150.22,
-      "lowest_price": 141.86,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
   ]
 }
