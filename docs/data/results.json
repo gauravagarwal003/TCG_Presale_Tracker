@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:22:31Z",
+  "generated_at": "2026-09-21T15:31:47Z",
   "count": 11,
   "items": [
     {
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 695.53,
-      "lowest_price": 698.8,
+      "market_price": 696.0,
+      "lowest_price": 695.48,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -19,32 +19,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 551.03,
-      "lowest_price": 550.86,
+      "market_price": 591.47,
+      "lowest_price": 586.04,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692983/reality-fracture-collector-booster-display"
-    },
-    {
-      "id": 695727,
-      "name": "Brightness of Hope Booster Box",
-      "product_line": "Dragon Ball Super: Fusion World",
-      "set": "Brightness of Hope",
-      "release_date": "2026-10-16",
-      "market_price": 402.38,
-      "lowest_price": 396.43,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695727_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
-    },
-    {
-      "id": 712901,
-      "name": "The Dominance of God Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "The Dominance of God",
-      "release_date": "2026-11-20",
-      "market_price": 397.72,
-      "lowest_price": 369.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
     {
       "id": 711385,
@@ -52,10 +30,21 @@
       "product_line": "One Piece Card Game",
       "set": "Extra Booster: One Piece Heroine's Edition Vol. 2",
       "release_date": "2026-10-30",
-      "market_price": 397.4,
-      "lowest_price": 389.99,
+      "market_price": 397.46,
+      "lowest_price": 385.84,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
+    },
+    {
+      "id": 712901,
+      "name": "The Dominance of God Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "The Dominance of God",
+      "release_date": "2026-11-20",
+      "market_price": 396.19,
+      "lowest_price": 369.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
     {
       "id": 710652,
@@ -64,7 +53,7 @@
       "set": "Stardust Trails",
       "release_date": "2026-10-30",
       "market_price": 286.61,
-      "lowest_price": 273.33,
+      "lowest_price": 273.31,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
     },
@@ -74,7 +63,7 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 267.17,
+      "market_price": 266.78,
       "lowest_price": 257.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
@@ -85,8 +74,8 @@
       "product_line": "Riftbound: League of Legends Trading Card Game",
       "set": "Radiance",
       "release_date": "2026-10-23",
-      "market_price": 246.7,
-      "lowest_price": 239.0,
+      "market_price": 245.97,
+      "lowest_price": 230.81,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711365_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711365/radiance-booster-display"
     },
@@ -96,7 +85,7 @@
       "product_line": "Star Wars: Unlimited",
       "set": "Homeworlds",
       "release_date": "2026-10-09",
-      "market_price": 244.9,
+      "market_price": 244.74,
       "lowest_price": 239.72,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710968_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710968/homeworlds-carbonite-edition-booster-display"
@@ -107,7 +96,7 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 225.81,
+      "market_price": 225.24,
       "lowest_price": 216.47,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
@@ -118,10 +107,21 @@
       "product_line": "Magic: The Gathering",
       "set": "Reality Fracture",
       "release_date": "2026-10-02",
-      "market_price": 173.46,
-      "lowest_price": 173.4,
+      "market_price": 173.11,
+      "lowest_price": 173.49,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692980_200w.jpg",
       "url": "https://www.tcgplayer.com/product/692980/reality-fracture-play-booster-display"
+    },
+    {
+      "id": 706138,
+      "name": "Star Trek - Play Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Star Trek",
+      "release_date": "2026-11-13",
+      "market_price": 152.04,
+      "lowest_price": 141.54,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
   ]
 }
