@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T18:26:07Z",
-  "count": 13,
+  "generated_at": "2026-10-13T16:38:13Z",
+  "count": 10,
   "items": [
     {
       "id": 706142,
@@ -8,21 +8,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 657.66,
-      "lowest_price": 640.0,
+      "market_price": 656.5,
+      "lowest_price": 636.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
-    },
-    {
-      "id": 710675,
-      "name": "Chromatic Ascension Booster Box",
-      "product_line": "Dragon Ball Super: Masters",
-      "set": "Chromatic Ascension",
-      "release_date": "2026-11-27",
-      "market_price": 533.32,
-      "lowest_price": 519.89,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
     },
     {
       "id": 712901,
@@ -41,21 +30,10 @@
       "product_line": "One Piece Card Game",
       "set": "Extra Booster: One Piece Heroines Edition Vol. 2",
       "release_date": "2026-10-30",
-      "market_price": 356.36,
-      "lowest_price": 350.95,
+      "market_price": 356.78,
+      "lowest_price": 347.67,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
-    },
-    {
-      "id": 708750,
-      "name": "Bleach: Thousand-Year Blood War Vol. 3 - Booster Display",
-      "product_line": "Union Arena",
-      "set": "UEX08BT: BLEACH: Thousand-Year Blood War Vol.3",
-      "release_date": "2026-11-13",
-      "market_price": 299.69,
-      "lowest_price": 296.0,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708750_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/708750/bleach-thousand-year-blood-war-vol-3-booster-display"
     },
     {
       "id": 710652,
@@ -64,7 +42,7 @@
       "set": "Stardust Trails",
       "release_date": "2026-10-30",
       "market_price": 254.81,
-      "lowest_price": 221.82,
+      "lowest_price": 217.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
     },
@@ -74,8 +52,8 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 249.36,
-      "lowest_price": 249.36,
+      "market_price": 249.3,
+      "lowest_price": 247.35,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -85,8 +63,8 @@
       "product_line": "Cyberpunk TCG",
       "set": "Welcome to Night City - Retail",
       "release_date": "2026-11-06",
-      "market_price": 237.43,
-      "lowest_price": 223.76,
+      "market_price": 236.36,
+      "lowest_price": 223.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714495_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714495/welcome-to-night-city-retail-booster-box"
     },
@@ -96,21 +74,10 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Brightness of Hope",
       "release_date": "2026-10-16",
-      "market_price": 232.8,
-      "lowest_price": 219.99,
+      "market_price": 231.37,
+      "lowest_price": 200.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695727_200w.jpg",
       "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
-    },
-    {
-      "id": 711356,
-      "name": "Mastery Pack Assassin Booster Box",
-      "product_line": "Flesh and Blood TCG",
-      "set": "Mastery Pack Assassin",
-      "release_date": "2026-11-13",
-      "market_price": 199.69,
-      "lowest_price": 99.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711356_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/711356/mastery-pack-assassin-booster-box"
     },
     {
       "id": 706239,
@@ -118,8 +85,8 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 179.82,
-      "lowest_price": 170.0,
+      "market_price": 188.61,
+      "lowest_price": 173.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
     },
@@ -130,7 +97,7 @@
       "set": "UP01BT: GODDESS OF VICTORY: NIKKE Precious Booster",
       "release_date": "2026-10-23",
       "market_price": 152.95,
-      "lowest_price": 149.99,
+      "lowest_price": 144.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704492_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704492/goddess-of-victory-nikke-precious-booster-box"
     },
@@ -140,8 +107,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 152.19,
-      "lowest_price": 142.8,
+      "market_price": 151.51,
+      "lowest_price": 140.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
