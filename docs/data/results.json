@@ -1,15 +1,26 @@
 {
-  "generated_at": "2026-10-14T14:13:52Z",
-  "count": 16,
+  "generated_at": "2026-10-15T13:49:16Z",
+  "count": 15,
   "items": [
+    {
+      "id": 723266,
+      "name": "Marvel: Darkhold Destiny - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Marvel: Darkhold Destiny",
+      "release_date": "2027-04-09",
+      "market_price": 750.0,
+      "lowest_price": 850.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
+    },
     {
       "id": 706142,
       "name": "Star Trek - Collector Booster Display",
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 650.01,
-      "lowest_price": 637.0,
+      "market_price": 645.6,
+      "lowest_price": 615.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -20,7 +31,7 @@
       "set": "Reach the God",
       "release_date": "2026-12-11",
       "market_price": 598.49,
-      "lowest_price": 598.45,
+      "lowest_price": 598.43,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
@@ -31,7 +42,7 @@
       "set": "Chromatic Ascension",
       "release_date": "2026-11-27",
       "market_price": 533.32,
-      "lowest_price": 519.8,
+      "lowest_price": 519.75,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
     },
@@ -52,8 +63,8 @@
       "product_line": "One Piece Card Game",
       "set": "Extra Booster: One Piece Heroines Edition Vol. 2",
       "release_date": "2026-10-30",
-      "market_price": 357.83,
-      "lowest_price": 347.67,
+      "market_price": 356.0,
+      "lowest_price": 344.92,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
     },
@@ -64,7 +75,7 @@
       "set": "UE25BT: My Hero Academia Special Booster",
       "release_date": "2026-12-11",
       "market_price": 299.69,
-      "lowest_price": 299.67,
+      "lowest_price": 299.66,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
@@ -85,8 +96,8 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 249.54,
-      "lowest_price": 247.35,
+      "market_price": 248.1,
+      "lowest_price": 232.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -96,7 +107,7 @@
       "product_line": "Gundam Card Game",
       "set": "Stardust Trails",
       "release_date": "2026-10-30",
-      "market_price": 244.06,
+      "market_price": 241.37,
       "lowest_price": 200.01,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
@@ -108,7 +119,7 @@
       "set": "Welcome to Night City - Retail",
       "release_date": "2026-11-06",
       "market_price": 236.02,
-      "lowest_price": 223.35,
+      "lowest_price": 222.92,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714495_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714495/welcome-to-night-city-retail-booster-box"
     },
@@ -118,7 +129,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Brightness of Hope",
       "release_date": "2026-10-16",
-      "market_price": 209.58,
+      "market_price": 216.41,
       "lowest_price": 193.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/695727_200w.jpg",
       "url": "https://www.tcgplayer.com/product/695727/brightness-of-hope-booster-box"
@@ -130,20 +141,9 @@
       "set": "Persona 30th Anniversary",
       "release_date": "2026-12-18",
       "market_price": 199.69,
-      "lowest_price": 249.67,
+      "lowest_price": 249.66,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/716031_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716031/persona-30th-anniversary-booster-box"
-    },
-    {
-      "id": 711356,
-      "name": "Mastery Pack Assassin Booster Box",
-      "product_line": "Flesh and Blood TCG",
-      "set": "Mastery Pack Assassin",
-      "release_date": "2026-11-13",
-      "market_price": 199.69,
-      "lowest_price": 99.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711356_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/711356/mastery-pack-assassin-booster-box"
     },
     {
       "id": 706239,
@@ -151,8 +151,8 @@
       "product_line": "Disney Lorcana",
       "set": "Hyperia City",
       "release_date": "2026-10-16",
-      "market_price": 179.75,
-      "lowest_price": 164.5,
+      "market_price": 175.91,
+      "lowest_price": 169.36,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706239/disney-lorcana-hyperia-city-booster-box"
     },
@@ -162,21 +162,10 @@
       "product_line": "Union Arena",
       "set": "UP01BT: GODDESS OF VICTORY: NIKKE Precious Booster",
       "release_date": "2026-10-23",
-      "market_price": 157.76,
+      "market_price": 162.42,
       "lowest_price": 144.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704492_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704492/goddess-of-victory-nikke-precious-booster-box"
-    },
-    {
-      "id": 706138,
-      "name": "Star Trek - Play Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Star Trek",
-      "release_date": "2026-11-13",
-      "market_price": 150.96,
-      "lowest_price": 140.76,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706138_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/706138/star-trek-play-booster-display"
     }
   ]
 }
