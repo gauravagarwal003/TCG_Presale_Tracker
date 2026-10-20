@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T16:03:55Z",
-  "count": 12,
+  "generated_at": "2026-10-20T13:59:49Z",
+  "count": 14,
   "items": [
     {
       "id": 723266,
@@ -9,7 +9,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 750.0,
-      "lowest_price": 834.01,
+      "lowest_price": 750.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -30,7 +30,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 574.96,
+      "market_price": 572.57,
       "lowest_price": 565.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
@@ -52,7 +52,7 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 354.8,
+      "market_price": 354.37,
       "lowest_price": 340.21,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
@@ -63,8 +63,8 @@
       "product_line": "One Piece Card Game",
       "set": "Extra Booster: One Piece Heroines Edition Vol. 2",
       "release_date": "2026-10-30",
-      "market_price": 352.63,
-      "lowest_price": 339.86,
+      "market_price": 350.87,
+      "lowest_price": 342.84,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
     },
@@ -80,13 +80,24 @@
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
     {
+      "id": 708750,
+      "name": "Bleach: Thousand-Year Blood War Vol. 3 - Booster Display",
+      "product_line": "Union Arena",
+      "set": "UEX08BT: BLEACH: Thousand-Year Blood War Vol.3",
+      "release_date": "2026-11-13",
+      "market_price": 297.8,
+      "lowest_price": 294.39,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708750/bleach-thousand-year-blood-war-vol-3-booster-display"
+    },
+    {
       "id": 712094,
       "name": "Delta Reign Booster Box",
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 240.75,
-      "lowest_price": 240.69,
+      "market_price": 239.52,
+      "lowest_price": 229.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -97,7 +108,7 @@
       "set": "Welcome to Night City - Retail",
       "release_date": "2026-11-06",
       "market_price": 231.32,
-      "lowest_price": 218.19,
+      "lowest_price": 217.89,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714495_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714495/welcome-to-night-city-retail-booster-box"
     },
@@ -108,20 +119,31 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 230.0,
-      "lowest_price": 229.95,
+      "lowest_price": 229.93,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
     },
     {
-      "id": 710652,
-      "name": "Stardust Trails Booster Box",
-      "product_line": "Gundam Card Game",
-      "set": "Stardust Trails",
-      "release_date": "2026-10-30",
-      "market_price": 186.2,
-      "lowest_price": 171.13,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/710652/stardust-trails-booster-box"
+      "id": 716031,
+      "name": "Persona 30th Anniversary Booster Box",
+      "product_line": "Weiss Schwarz",
+      "set": "Persona 30th Anniversary",
+      "release_date": "2026-12-18",
+      "market_price": 199.69,
+      "lowest_price": 249.66,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/716031_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716031/persona-30th-anniversary-booster-box"
+    },
+    {
+      "id": 711356,
+      "name": "Mastery Pack Assassin Booster Box",
+      "product_line": "Flesh and Blood TCG",
+      "set": "Mastery Pack Assassin",
+      "release_date": "2026-11-13",
+      "market_price": 199.69,
+      "lowest_price": 169.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711356/mastery-pack-assassin-booster-box"
     },
     {
       "id": 704492,
@@ -129,8 +151,8 @@
       "product_line": "Union Arena",
       "set": "UP01BT: GODDESS OF VICTORY: NIKKE Precious Booster",
       "release_date": "2026-10-23",
-      "market_price": 159.81,
-      "lowest_price": 142.99,
+      "market_price": 156.35,
+      "lowest_price": 124.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/704492_200w.jpg",
       "url": "https://www.tcgplayer.com/product/704492/goddess-of-victory-nikke-precious-booster-box"
     }
