@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T13:01:14Z",
-  "count": 13,
+  "generated_at": "2026-10-25T13:28:31Z",
+  "count": 12,
   "items": [
     {
       "id": 723266,
@@ -9,7 +9,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 750.0,
-      "lowest_price": 749.95,
+      "lowest_price": 749.92,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -20,7 +20,7 @@
       "set": "Reach the God",
       "release_date": "2026-12-11",
       "market_price": 598.49,
-      "lowest_price": 598.41,
+      "lowest_price": 598.4,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
@@ -30,7 +30,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 545.16,
+      "market_price": 546.06,
       "lowest_price": 540.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
@@ -52,7 +52,7 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 352.26,
+      "market_price": 351.78,
       "lowest_price": 340.21,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
@@ -63,8 +63,8 @@
       "product_line": "One Piece Card Game",
       "set": "Extra Booster: One Piece Heroines Edition Vol. 2",
       "release_date": "2026-10-30",
-      "market_price": 330.2,
-      "lowest_price": 321.38,
+      "market_price": 320.95,
+      "lowest_price": 315.9,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
     },
@@ -75,7 +75,7 @@
       "set": "UE25BT: My Hero Academia Special Booster",
       "release_date": "2026-12-11",
       "market_price": 299.69,
-      "lowest_price": 299.66,
+      "lowest_price": 299.65,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
@@ -96,8 +96,8 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 238.54,
-      "lowest_price": 235.59,
+      "market_price": 236.81,
+      "lowest_price": 228.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -108,7 +108,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 230.0,
-      "lowest_price": 229.85,
+      "lowest_price": 229.82,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
     },
@@ -124,24 +124,13 @@
       "url": "https://www.tcgplayer.com/product/716031/persona-30th-anniversary-booster-box"
     },
     {
-      "id": 711356,
-      "name": "Mastery Pack Assassin Booster Box",
-      "product_line": "Flesh and Blood TCG",
-      "set": "Mastery Pack Assassin",
-      "release_date": "2026-11-13",
-      "market_price": 199.69,
-      "lowest_price": 99.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711356_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/711356/mastery-pack-assassin-booster-box"
-    },
-    {
       "id": 714495,
       "name": "Welcome to Night City - Retail Booster Box",
       "product_line": "Cyberpunk TCG",
       "set": "Welcome to Night City - Retail",
       "release_date": "2026-11-06",
-      "market_price": 184.88,
-      "lowest_price": 179.59,
+      "market_price": 183.96,
+      "lowest_price": 179.44,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714495_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714495/welcome-to-night-city-retail-booster-box"
     }
