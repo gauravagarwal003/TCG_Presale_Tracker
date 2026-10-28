@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:02:53Z",
+  "generated_at": "2026-10-28T15:38:28Z",
   "count": 12,
   "items": [
     {
@@ -30,7 +30,7 @@
       "product_line": "Dragon Ball Super: Masters",
       "set": "Chromatic Ascension",
       "release_date": "2026-11-27",
-      "market_price": 533.32,
+      "market_price": 529.89,
       "lowest_price": 519.6,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
@@ -41,8 +41,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 526.51,
-      "lowest_price": 504.99,
+      "market_price": 502.79,
+      "lowest_price": 502.7,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -52,7 +52,7 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 350.6,
+      "market_price": 350.13,
       "lowest_price": 339.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
@@ -69,26 +69,26 @@
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
     {
-      "id": 711385,
-      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box",
-      "product_line": "One Piece Card Game",
-      "set": "Extra Booster: One Piece Heroines Edition Vol. 2",
-      "release_date": "2026-10-30",
-      "market_price": 297.88,
-      "lowest_price": 286.73,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
-    },
-    {
       "id": 708750,
       "name": "Bleach: Thousand-Year Blood War Vol. 3 - Booster Display",
       "product_line": "Union Arena",
       "set": "UEX08BT: BLEACH: Thousand-Year Blood War Vol.3",
       "release_date": "2026-11-13",
       "market_price": 297.8,
-      "lowest_price": 294.11,
+      "lowest_price": 294.09,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708750_200w.jpg",
       "url": "https://www.tcgplayer.com/product/708750/bleach-thousand-year-blood-war-vol-3-booster-display"
+    },
+    {
+      "id": 711385,
+      "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "Extra Booster: One Piece Heroines Edition Vol. 2",
+      "release_date": "2026-10-30",
+      "market_price": 282.95,
+      "lowest_price": 280.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711385/extra-booster-one-piece-heroines-edition-vol2-booster-box"
     },
     {
       "id": 712094,
@@ -96,8 +96,8 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 236.1,
-      "lowest_price": 230.0,
+      "market_price": 233.88,
+      "lowest_price": 222.7,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -129,8 +129,8 @@
       "product_line": "Cyberpunk TCG",
       "set": "Welcome to Night City - Retail",
       "release_date": "2026-11-06",
-      "market_price": 180.41,
-      "lowest_price": 160.75,
+      "market_price": 171.11,
+      "lowest_price": 154.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714495_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714495/welcome-to-night-city-retail-booster-box"
     }
