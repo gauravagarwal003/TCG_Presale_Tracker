@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T14:55:49Z",
-  "count": 11,
+  "generated_at": "2026-11-01T15:38:34Z",
+  "count": 9,
   "items": [
     {
       "id": 723266,
@@ -9,9 +9,20 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 749.87,
-      "lowest_price": 689.9,
+      "lowest_price": 699.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
+    },
+    {
+      "id": 707521,
+      "name": "Reach the God Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Reach the God",
+      "release_date": "2026-12-11",
+      "market_price": 598.49,
+      "lowest_price": 598.4,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
     {
       "id": 706142,
@@ -19,21 +30,10 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 583.39,
-      "lowest_price": 569.99,
+      "market_price": 573.35,
+      "lowest_price": 564.7,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
-    },
-    {
-      "id": 710675,
-      "name": "Chromatic Ascension Booster Box",
-      "product_line": "Dragon Ball Super: Masters",
-      "set": "Chromatic Ascension",
-      "release_date": "2026-11-27",
-      "market_price": 529.89,
-      "lowest_price": 519.6,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
     },
     {
       "id": 712901,
@@ -41,21 +41,10 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 346.71,
+      "market_price": 345.32,
       "lowest_price": 334.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
-    },
-    {
-      "id": 714370,
-      "name": "My Hero Academia Special Booster - Booster Box",
-      "product_line": "Union Arena",
-      "set": "UE25BT: My Hero Academia Special Booster",
-      "release_date": "2026-12-11",
-      "market_price": 299.69,
-      "lowest_price": 299.64,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
     {
       "id": 723336,
@@ -63,8 +52,8 @@
       "product_line": "Disney Lorcana",
       "set": "Into the Inkdark",
       "release_date": "2027-02-05",
-      "market_price": 299.31,
-      "lowest_price": 299.39,
+      "market_price": 299.33,
+      "lowest_price": 299.36,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723336/disney-lorcana-into-the-inkdark-booster-box"
     },
@@ -75,7 +64,7 @@
       "set": "UEX08BT: BLEACH: Thousand-Year Blood War Vol.3",
       "release_date": "2026-11-13",
       "market_price": 297.8,
-      "lowest_price": 292.97,
+      "lowest_price": 274.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708750_200w.jpg",
       "url": "https://www.tcgplayer.com/product/708750/bleach-thousand-year-blood-war-vol-3-booster-display"
     },
@@ -85,8 +74,8 @@
       "product_line": "Pokemon",
       "set": "ME06: Delta Reign",
       "release_date": "2026-11-06",
-      "market_price": 229.37,
-      "lowest_price": 214.99,
+      "market_price": 229.03,
+      "lowest_price": 224.59,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712094/delta-reign-booster-box"
     },
@@ -97,20 +86,9 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 205.49,
-      "lowest_price": 169.9,
+      "lowest_price": 179.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
-    },
-    {
-      "id": 716031,
-      "name": "Persona 30th Anniversary Booster Box",
-      "product_line": "Weiss Schwarz",
-      "set": "Persona 30th Anniversary",
-      "release_date": "2026-12-18",
-      "market_price": 199.69,
-      "lowest_price": 244.64,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/716031_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/716031/persona-30th-anniversary-booster-box"
     },
     {
       "id": 714495,
@@ -118,8 +96,8 @@
       "product_line": "Cyberpunk TCG",
       "set": "Welcome to Night City - Retail",
       "release_date": "2026-11-06",
-      "market_price": 156.62,
-      "lowest_price": 149.51,
+      "market_price": 151.79,
+      "lowest_price": 148.66,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714495_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714495/welcome-to-night-city-retail-booster-box"
     }
