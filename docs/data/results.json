@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:30:34Z",
+  "generated_at": "2026-11-07T15:17:45Z",
   "count": 10,
   "items": [
     {
@@ -9,7 +9,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 728.26,
-      "lowest_price": 629.98,
+      "lowest_price": 632.98,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -41,8 +41,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 459.15,
-      "lowest_price": 445.0,
+      "market_price": 461.55,
+      "lowest_price": 460.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -63,7 +63,7 @@
       "product_line": "Disney Lorcana",
       "set": "Into the Inkdark",
       "release_date": "2027-02-05",
-      "market_price": 299.25,
+      "market_price": 298.65,
       "lowest_price": 287.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723336/disney-lorcana-into-the-inkdark-booster-box"
@@ -74,21 +74,10 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 240.24,
-      "lowest_price": 240.0,
+      "market_price": 237.31,
+      "lowest_price": 233.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
-    },
-    {
-      "id": 708750,
-      "name": "Bleach: Thousand-Year Blood War Vol. 3 - Booster Display",
-      "product_line": "Union Arena",
-      "set": "UEX08BT: BLEACH: Thousand-Year Blood War Vol.3",
-      "release_date": "2026-11-13",
-      "market_price": 202.9,
-      "lowest_price": 143.88,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708750_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/708750/bleach-thousand-year-blood-war-vol-3-booster-display"
     },
     {
       "id": 716031,
@@ -107,10 +96,21 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 192.13,
-      "lowest_price": 138.98,
+      "market_price": 188.11,
+      "lowest_price": 151.87,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
+    },
+    {
+      "id": 708750,
+      "name": "Bleach: Thousand-Year Blood War Vol. 3 - Booster Display",
+      "product_line": "Union Arena",
+      "set": "UEX08BT: BLEACH: Thousand-Year Blood War Vol.3",
+      "release_date": "2026-11-13",
+      "market_price": 169.02,
+      "lowest_price": 126.48,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/708750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708750/bleach-thousand-year-blood-war-vol-3-booster-display"
     }
   ]
 }
