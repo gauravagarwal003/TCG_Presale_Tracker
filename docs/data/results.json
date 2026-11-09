@@ -1,15 +1,26 @@
 {
-  "generated_at": "2026-11-08T15:41:21Z",
-  "count": 9,
+  "generated_at": "2026-11-09T19:23:10Z",
+  "count": 10,
   "items": [
+    {
+      "id": 723333,
+      "name": "Disney Lorcana: Into the Inkdark Collector Booster Display",
+      "product_line": "Disney Lorcana",
+      "set": "Into the Inkdark",
+      "release_date": "2027-02-05",
+      "market_price": 3399.0,
+      "lowest_price": 3399.9,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723333/disney-lorcana-into-the-inkdark-collector-booster-display"
+    },
     {
       "id": 723266,
       "name": "Marvel: Darkhold Destiny - Collector Booster Display",
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 728.26,
-      "lowest_price": 600.0,
+      "market_price": 706.55,
+      "lowest_price": 590.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -20,7 +31,7 @@
       "set": "Reach the God",
       "release_date": "2026-12-11",
       "market_price": 598.49,
-      "lowest_price": 548.99,
+      "lowest_price": 539.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
@@ -41,8 +52,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 494.82,
-      "lowest_price": 490.0,
+      "market_price": 481.34,
+      "lowest_price": 480.43,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -52,7 +63,7 @@
       "product_line": "Union Arena",
       "set": "UE25BT: My Hero Academia Special Booster",
       "release_date": "2026-12-11",
-      "market_price": 299.69,
+      "market_price": 299.67,
       "lowest_price": 299.64,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
@@ -74,8 +85,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 234.3,
-      "lowest_price": 230.49,
+      "market_price": 233.78,
+      "lowest_price": 230.19,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
@@ -96,8 +107,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 188.11,
-      "lowest_price": 159.91,
+      "market_price": 182.46,
+      "lowest_price": 151.87,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
     }
