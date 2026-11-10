@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T19:23:10Z",
+  "generated_at": "2026-11-10T16:41:55Z",
   "count": 10,
   "items": [
     {
@@ -9,7 +9,7 @@
       "set": "Into the Inkdark",
       "release_date": "2027-02-05",
       "market_price": 3399.0,
-      "lowest_price": 3399.9,
+      "lowest_price": 3389.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723333_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723333/disney-lorcana-into-the-inkdark-collector-booster-display"
     },
@@ -20,20 +20,9 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 706.55,
-      "lowest_price": 590.0,
+      "lowest_price": 580.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
-    },
-    {
-      "id": 707521,
-      "name": "Reach the God Booster Box",
-      "product_line": "Dragon Ball Super: Fusion World",
-      "set": "Reach the God",
-      "release_date": "2026-12-11",
-      "market_price": 598.49,
-      "lowest_price": 539.99,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
     {
       "id": 710675,
@@ -42,7 +31,7 @@
       "set": "Chromatic Ascension",
       "release_date": "2026-11-27",
       "market_price": 527.29,
-      "lowest_price": 499.99,
+      "lowest_price": 497.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
     },
@@ -52,10 +41,21 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 481.34,
-      "lowest_price": 480.43,
+      "market_price": 460.51,
+      "lowest_price": 447.5,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
+    },
+    {
+      "id": 707521,
+      "name": "Reach the God Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Reach the God",
+      "release_date": "2026-12-11",
+      "market_price": 357.82,
+      "lowest_price": 229.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
     {
       "id": 714370,
@@ -85,8 +85,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 233.78,
-      "lowest_price": 230.19,
+      "market_price": 233.76,
+      "lowest_price": 224.16,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
@@ -107,8 +107,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 182.46,
-      "lowest_price": 151.87,
+      "market_price": 180.4,
+      "lowest_price": 147.75,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
     }
