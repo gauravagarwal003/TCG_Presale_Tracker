@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T16:47:25Z",
-  "count": 8,
+  "generated_at": "2026-11-12T17:15:59Z",
+  "count": 9,
   "items": [
     {
       "id": 723266,
@@ -8,7 +8,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 706.55,
+      "market_price": 688.47,
       "lowest_price": 572.92,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
@@ -20,7 +20,7 @@
       "set": "Chromatic Ascension",
       "release_date": "2026-11-27",
       "market_price": 527.29,
-      "lowest_price": 494.0,
+      "lowest_price": 483.97,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
     },
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Star Trek",
       "release_date": "2026-11-13",
-      "market_price": 454.7,
-      "lowest_price": 450.0,
+      "market_price": 425.6,
+      "lowest_price": 420.69,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
     },
@@ -42,7 +42,7 @@
       "set": "Reach the God",
       "release_date": "2026-12-11",
       "market_price": 357.82,
-      "lowest_price": 224.99,
+      "lowest_price": 209.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
@@ -74,10 +74,21 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 230.19,
-      "lowest_price": 217.99,
+      "market_price": 229.74,
+      "lowest_price": 220.94,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
+    },
+    {
+      "id": 716031,
+      "name": "Persona 30th Anniversary Booster Box",
+      "product_line": "Weiss Schwarz",
+      "set": "Persona 30th Anniversary",
+      "release_date": "2026-12-18",
+      "market_price": 199.69,
+      "lowest_price": 244.64,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/716031_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716031/persona-30th-anniversary-booster-box"
     },
     {
       "id": 723263,
@@ -86,7 +97,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 180.4,
-      "lowest_price": 147.64,
+      "lowest_price": 143.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
     }
