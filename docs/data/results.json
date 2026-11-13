@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T17:15:59Z",
-  "count": 9,
+  "generated_at": "2026-11-13T16:52:36Z",
+  "count": 8,
   "items": [
     {
       "id": 723266,
@@ -8,8 +8,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 688.47,
-      "lowest_price": 572.92,
+      "market_price": 674.91,
+      "lowest_price": 567.93,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -25,24 +25,13 @@
       "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
     },
     {
-      "id": 706142,
-      "name": "Star Trek - Collector Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Star Trek",
-      "release_date": "2026-11-13",
-      "market_price": 425.6,
-      "lowest_price": 420.69,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/706142_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/706142/star-trek-collector-booster-display"
-    },
-    {
       "id": 707521,
       "name": "Reach the God Booster Box",
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Reach the God",
       "release_date": "2026-12-11",
-      "market_price": 357.82,
-      "lowest_price": 209.99,
+      "market_price": 300.67,
+      "lowest_price": 199.98,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
@@ -74,8 +63,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 229.74,
-      "lowest_price": 220.94,
+      "market_price": 220.12,
+      "lowest_price": 219.95,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
@@ -96,8 +85,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 180.4,
-      "lowest_price": 143.95,
+      "market_price": 178.36,
+      "lowest_price": 143.93,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
     }
