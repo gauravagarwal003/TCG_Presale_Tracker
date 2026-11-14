@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:52:36Z",
+  "generated_at": "2026-11-14T15:26:21Z",
   "count": 8,
   "items": [
     {
@@ -9,7 +9,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 674.91,
-      "lowest_price": 567.93,
+      "lowest_price": 567.85,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -31,7 +31,7 @@
       "set": "Reach the God",
       "release_date": "2026-12-11",
       "market_price": 300.67,
-      "lowest_price": 199.98,
+      "lowest_price": 195.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
     },
@@ -42,7 +42,7 @@
       "set": "UE25BT: My Hero Academia Special Booster",
       "release_date": "2026-12-11",
       "market_price": 299.66,
-      "lowest_price": 299.64,
+      "lowest_price": 299.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
@@ -53,7 +53,7 @@
       "set": "Into the Inkdark",
       "release_date": "2027-02-05",
       "market_price": 297.22,
-      "lowest_price": 280.0,
+      "lowest_price": 278.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723336/disney-lorcana-into-the-inkdark-booster-box"
     },
@@ -63,8 +63,8 @@
       "product_line": "One Piece Card Game",
       "set": "The Dominance of God",
       "release_date": "2026-11-20",
-      "market_price": 220.12,
-      "lowest_price": 219.95,
+      "market_price": 219.4,
+      "lowest_price": 215.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
     },
@@ -86,7 +86,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 178.36,
-      "lowest_price": 143.93,
+      "lowest_price": 143.46,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
     }
