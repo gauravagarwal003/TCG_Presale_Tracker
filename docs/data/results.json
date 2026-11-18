@@ -1,5 +1,105 @@
 {
-  "generated_at": "2026-11-17T18:00:11Z",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-11-18T17:42:03Z",
+  "count": 9,
+  "items": [
+    {
+      "id": 723266,
+      "name": "Marvel: Darkhold Destiny - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Marvel: Darkhold Destiny",
+      "release_date": "2027-04-09",
+      "market_price": 653.88,
+      "lowest_price": 557.86,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
+    },
+    {
+      "id": 710675,
+      "name": "Chromatic Ascension Booster Box",
+      "product_line": "Dragon Ball Super: Masters",
+      "set": "Chromatic Ascension",
+      "release_date": "2026-11-27",
+      "market_price": 527.29,
+      "lowest_price": 416.94,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
+    },
+    {
+      "id": 733554,
+      "name": "Nauctis: The Sunken Realm - Collector Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Nauctis: The Sunken Realm",
+      "release_date": "2027-02-05",
+      "market_price": 499.88,
+      "lowest_price": 490.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/733554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/733554/nauctis-the-sunken-realm-collector-booster-display"
+    },
+    {
+      "id": 714370,
+      "name": "My Hero Academia Special Booster - Booster Box",
+      "product_line": "Union Arena",
+      "set": "UE25BT: My Hero Academia Special Booster",
+      "release_date": "2026-12-11",
+      "market_price": 299.65,
+      "lowest_price": 224.98,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
+    },
+    {
+      "id": 723336,
+      "name": "Disney Lorcana: Into the Inkdark Booster Box",
+      "product_line": "Disney Lorcana",
+      "set": "Into the Inkdark",
+      "release_date": "2027-02-05",
+      "market_price": 297.22,
+      "lowest_price": 278.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723336/disney-lorcana-into-the-inkdark-booster-box"
+    },
+    {
+      "id": 707521,
+      "name": "Reach the God Booster Box",
+      "product_line": "Dragon Ball Super: Fusion World",
+      "set": "Reach the God",
+      "release_date": "2026-12-11",
+      "market_price": 221.72,
+      "lowest_price": 149.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
+    },
+    {
+      "id": 712901,
+      "name": "The Dominance of God Booster Box",
+      "product_line": "One Piece Card Game",
+      "set": "The Dominance of God",
+      "release_date": "2026-11-20",
+      "market_price": 210.1,
+      "lowest_price": 204.0,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/712901/the-dominance-of-god-booster-box"
+    },
+    {
+      "id": 733551,
+      "name": "Nauctis: The Sunken Realm - Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Nauctis: The Sunken Realm",
+      "release_date": "2027-02-05",
+      "market_price": 179.83,
+      "lowest_price": 170.99,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/733551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/733551/nauctis-the-sunken-realm-booster-display"
+    },
+    {
+      "id": 723263,
+      "name": "Marvel: Darkhold Destiny - Booster Display",
+      "product_line": "Magic: The Gathering",
+      "set": "Marvel: Darkhold Destiny",
+      "release_date": "2027-04-09",
+      "market_price": 170.9,
+      "lowest_price": 143.28,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
+    }
+  ]
 }
