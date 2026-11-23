@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T16:48:30Z",
-  "count": 10,
+  "generated_at": "2026-11-23T20:45:25Z",
+  "count": 9,
   "items": [
     {
       "id": 723266,
@@ -9,7 +9,7 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 645.79,
-      "lowest_price": 564.54,
+      "lowest_price": 552.36,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -19,7 +19,7 @@
       "product_line": "Magic: The Gathering",
       "set": "Nauctis: The Sunken Realm",
       "release_date": "2027-02-05",
-      "market_price": 498.17,
+      "market_price": 497.39,
       "lowest_price": 490.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/733554_200w.jpg",
       "url": "https://www.tcgplayer.com/product/733554/nauctis-the-sunken-realm-collector-booster-display"
@@ -30,8 +30,8 @@
       "product_line": "Dragon Ball Super: Masters",
       "set": "Chromatic Ascension",
       "release_date": "2026-11-27",
-      "market_price": 322.66,
-      "lowest_price": 242.56,
+      "market_price": 305.18,
+      "lowest_price": 218.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/710675_200w.jpg",
       "url": "https://www.tcgplayer.com/product/710675/chromatic-ascension-booster-box"
     },
@@ -42,7 +42,7 @@
       "set": "Into the Inkdark",
       "release_date": "2027-02-05",
       "market_price": 295.72,
-      "lowest_price": 278.0,
+      "lowest_price": 277.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723336/disney-lorcana-into-the-inkdark-booster-box"
     },
@@ -53,7 +53,7 @@
       "set": "UE25BT: My Hero Academia Special Booster",
       "release_date": "2026-12-11",
       "market_price": 284.7,
-      "lowest_price": 224.86,
+      "lowest_price": 224.83,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
@@ -63,8 +63,8 @@
       "product_line": "Pokemon",
       "set": "ME07: Flowing Fists",
       "release_date": "2027-02-06",
-      "market_price": 254.85,
-      "lowest_price": 226.93,
+      "market_price": 249.08,
+      "lowest_price": 202.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/735045_200w.jpg",
       "url": "https://www.tcgplayer.com/product/735045/flowing-fists-booster-box"
     },
@@ -85,7 +85,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Reach the God",
       "release_date": "2026-12-11",
-      "market_price": 175.42,
+      "market_price": 164.57,
       "lowest_price": 149.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
@@ -97,20 +97,9 @@
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
       "market_price": 162.92,
-      "lowest_price": 141.55,
+      "lowest_price": 129.37,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723263_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723263/marvel-darkhold-destiny-booster-display"
-    },
-    {
-      "id": 733551,
-      "name": "Nauctis: The Sunken Realm - Booster Display",
-      "product_line": "Magic: The Gathering",
-      "set": "Nauctis: The Sunken Realm",
-      "release_date": "2027-02-05",
-      "market_price": 156.78,
-      "lowest_price": 142.95,
-      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/733551_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/733551/nauctis-the-sunken-realm-booster-display"
     }
   ]
 }
