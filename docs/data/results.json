@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T18:36:18Z",
-  "count": 7,
+  "generated_at": "2026-11-28T17:16:21Z",
+  "count": 9,
   "items": [
     {
       "id": 723333,
@@ -9,7 +9,7 @@
       "set": "Into the Inkdark",
       "release_date": "2027-02-05",
       "market_price": 1322.71,
-      "lowest_price": 1349.75,
+      "lowest_price": 1300.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723333_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723333/disney-lorcana-into-the-inkdark-collector-booster-display"
     },
@@ -19,8 +19,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Marvel: Darkhold Destiny",
       "release_date": "2027-04-09",
-      "market_price": 587.67,
-      "lowest_price": 537.68,
+      "market_price": 558.88,
+      "lowest_price": 514.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723266/marvel-darkhold-destiny-collector-booster-display"
     },
@@ -30,8 +30,8 @@
       "product_line": "Magic: The Gathering",
       "set": "Nauctis: The Sunken Realm",
       "release_date": "2027-02-05",
-      "market_price": 481.71,
-      "lowest_price": 469.86,
+      "market_price": 467.32,
+      "lowest_price": 454.98,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/733554_200w.jpg",
       "url": "https://www.tcgplayer.com/product/733554/nauctis-the-sunken-realm-collector-booster-display"
     },
@@ -42,7 +42,7 @@
       "set": "Into the Inkdark",
       "release_date": "2027-02-05",
       "market_price": 291.34,
-      "lowest_price": 258.97,
+      "lowest_price": 248.0,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/723336_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723336/disney-lorcana-into-the-inkdark-booster-box"
     },
@@ -53,7 +53,7 @@
       "set": "UE25BT: My Hero Academia Special Booster",
       "release_date": "2026-12-11",
       "market_price": 257.27,
-      "lowest_price": 204.9,
+      "lowest_price": 199.97,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/714370_200w.jpg",
       "url": "https://www.tcgplayer.com/product/714370/my-hero-academia-special-booster-booster-box"
     },
@@ -63,10 +63,32 @@
       "product_line": "Pokemon",
       "set": "ME07: Flowing Fists",
       "release_date": "2027-02-06",
-      "market_price": 225.54,
+      "market_price": 212.97,
       "lowest_price": 196.34,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/735045_200w.jpg",
       "url": "https://www.tcgplayer.com/product/735045/flowing-fists-booster-box"
+    },
+    {
+      "id": 716031,
+      "name": "Persona 30th Anniversary Booster Box",
+      "product_line": "Weiss Schwarz",
+      "set": "Persona 30th Anniversary",
+      "release_date": "2026-12-18",
+      "market_price": 199.69,
+      "lowest_price": 199.78,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/716031_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716031/persona-30th-anniversary-booster-box"
+    },
+    {
+      "id": 735345,
+      "name": "Blazing Fist Booster Box",
+      "product_line": "Gundam Card Game",
+      "set": "Blazing Fist",
+      "release_date": "2027-01-29",
+      "market_price": 198.89,
+      "lowest_price": 198.89,
+      "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/735345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/735345/blazing-fist-booster-box"
     },
     {
       "id": 707521,
@@ -74,7 +96,7 @@
       "product_line": "Dragon Ball Super: Fusion World",
       "set": "Reach the God",
       "release_date": "2026-12-11",
-      "market_price": 162.01,
+      "market_price": 160.12,
       "lowest_price": 149.99,
       "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
       "url": "https://www.tcgplayer.com/product/707521/reach-the-god-booster-box"
